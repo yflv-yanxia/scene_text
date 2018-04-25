@@ -1,4 +1,7 @@
 # scene_text
+## Link
+[Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
+
 ## Text Detection
 [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018<br>
 [FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, CVPR2018<br>
@@ -31,9 +34,12 @@
 [Text-Attentional Convolutional Neural Network for Scene Text Detection](http://ieeexplore.ieee.org/abstract/document/7442550/) -Tong He, Weilin Huang, Yu Qiao, Jian Yao, TIP2016<br>
 [Robust Scene Text Recognition with Automatic Rectification](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Robust_Scene_Text_CVPR_2016_paper.pdf) -Baoguang Shi, Xinggang Wang, Pengyuan Lyu, Cong Yao, Xiang Bai, CVPR2016<br>
 [DeepText: A Unified Framework for Text Proposal Generation and Text Detection in Natural Images](https://arxiv.org/abs/1605.07314) -Zhuoyao Zhong, Lianwen Jin, Shuye Zhang, Ziyong Feng, arxiv2016<br>
+[Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End
 [E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text]() -Yash Patel, et al, arxiv2018<br>
+[SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](http://arxiv.org/abs/1712.05404) -Christian Bartz, Haojin Yang, Christoph Meinel, AAAI2018<br>
+[Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) -Michal Busta, et al, ICCV2017<br>
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
 
 ## Other
@@ -43,8 +49,10 @@
 ## Database & Generation
 [Synthetic Word Dataset](http://www.robots.ox.ac.uk/~vgg/data/text/), [Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition](https://arxiv.org/abs/1406.2227)<br>
 [Total-text: A comprehensive dataset for scene text detection and recognition](https://ieeexplore.ieee.org/abstract/document/8270088/) - -Chee Kheng Ch'ng, Chee Seng Chan<br>
-SVT<br>
-IIIT5K<br>
+Street View Text(SVT)<br>
+IIIT 5k-words<br>
+MSRA-TD500<br>
+KAIST Scene_Text Database<br>
 ICDAR2011, ICDAR2013, ICDAR2015, ICDAR2017, robust reading-Focused Scene Text<br>
 ICDAR2017-Reading Chinese Text in the Wild (RCTW-17)<br>
 ICDAR2017-ICDAR 2017 Robust Reading Challenge on Omnidirectional Video(DOST)<br>
