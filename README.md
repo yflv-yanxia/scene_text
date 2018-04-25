@@ -46,6 +46,7 @@ COCO-Text<br>
 Google French Street Name Signs (FSNS) dataset<br>
 ICDAR2017-ICDAR2017 Competition on Multi-lingual scene text detection and script identification(MLT)<br>
 ICDAR2017-Born-Digital Images (Web and Email)<br>
+[Detecting Curve Text in the Wild: New Dataset and New Solution](https://arxiv.org/abs/1712.02170)<br>
 
 ## Competition
 [ICDAR2017 Competition on Reading Chinese Text in the Wild (RCTW-17)](https://arxiv.org/abs/1708.09585) -B Shi, C Yao, M Liao, M Yang, P Xu, L Cui, arxiv2017<br>
