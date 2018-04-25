@@ -1,6 +1,8 @@
 # scene_text
 ## Text Detection
 [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018<br>
+[FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, arxiv2018<br>
+[R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/abs/1706.09579) -Samsung, arxiv2018<br>
 [Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation](https://arxiv.org/abs/1802.08948) -Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai, arxiv2018<br>
 [PixelLink: Detecting Scene Text via Instance Segmentation](https://arxiv.org/abs/1801.01315) -Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai, aaai2018<br>
 [EAST: an efficient and accurate scene text detector](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf) -Megvii, cvpr2017<br>
@@ -35,12 +37,19 @@
 
 ## Database
 [Synthetic Word Dataset](http://www.robots.ox.ac.uk/~vgg/data/text/), [Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition](https://arxiv.org/abs/1406.2227)<br>
+[Total-text: A comprehensive dataset for scene text detection and recognition](https://ieeexplore.ieee.org/abstract/document/8270088/) - -Chee Kheng Ch'ng, Chee Seng Chan<br>
+ICDAR2011, ICDAR2013, ICDAR2015, ICDAR2017, robust reading-Focused Scene Text<br>
+ICDAR2017-Reading Chinese Text in the Wild (RCTW-17)<br>
+ICDAR2017-ICDAR 2017 Robust Reading Challenge on Omnidirectional Video(DOST)<br>
+COCO-Text<br>
+Google French Street Name Signs (FSNS) dataset<br>
+ICDAR2017-ICDAR2017 Competition on Multi-lingual scene text detection and script identification(MLT)<br>
+ICDAR2017-Born-Digital Images (Web and Email)<br>
 
 ## Competition
 [ICDAR2017 Competition on Reading Chinese Text in the Wild (RCTW-17)](https://arxiv.org/abs/1708.09585) -B Shi, C Yao, M Liao, M Yang, P Xu, L Cui, arxiv2017<br>
 [ICDAR 2015 competition on robust reading](https://ieeexplore.ieee.org/abstract/document/7333942/)<br>
-[Computer Science > Computer Vision and Pattern Recognition<br>
-Incidental Scene Text Understanding: Recent Progresses on ICDAR 2015 Robust Reading Competition Challenge 4](https://arxiv.org/abs/1511.09207) -Cong Yao, Jianan Wu, Xinyu Zhou, Chi Zhang, Shuchang Zhou, Zhimin Cao, Qi Yin<br>
+[Incidental Scene Text Understanding: Recent Progresses on ICDAR 2015 Robust Reading Competition Challenge 4](https://arxiv.org/abs/1511.09207) -Cong Yao, Jianan Wu, Xinyu Zhou, Chi Zhang, Shuchang Zhou, Zhimin Cao, Qi Yin<br>
 
 ## Generation
 [Synthetic Word](http://www.robots.ox.ac.uk/~vgg/data/text/)<br>
