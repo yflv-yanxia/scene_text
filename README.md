@@ -11,6 +11,7 @@
 [Deep direct regression for multi-oriented scene text detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Deep_Direct_Regression_ICCV_2017_paper.pdf) -W He, XY Zhang, F Yin, CL Liu, ICCV2017<br>
 [Detecting oriented text in natural images by linking segments](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf) -B Shi, X Bai, S Belongie, CVPR2017<br>
 [Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf) -Yuliang Liu, Lianwen Jin, CVPR2017<br>
+[Feature Enhancement Network: A Refined Scene Text Detector](https://arxiv.org/abs/1711.04249) -Sheng Zhang, Yuliang Liu, Lianwen Jin, Canjie Luo, arxiv2017<br>
 [Single Shot Text Detector with Regional Attention](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf) -Pan He, Weilin Huang, Tong He, Qile Zhu, Yu Qiao, and Xiaolin Li, ICCV2017<br>
 [A Convolutional Neural Network-Based Chinese Text Detection Algorithm via Text Structure Modeling](https://ieeexplore.ieee.org/abstract/document/7733055/) -Xiaohang Ren, Yi Zhou, Jianhua He, Kai Chen, Xiaokang Yang, Jun Sun, TMM2017<br>
 [Fused Text Segmentation Networks for Multi-oriented Scene Text Detection](https://arxiv.org/abs/1709.03272) -Yuchen Dai, et al, arxiv2017<br>
