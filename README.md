@@ -1,6 +1,4 @@
 # scene_text
-## Link
-[Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
 
 ## Text Detection
 [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018<br>
@@ -8,18 +6,23 @@
 [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/abs/1706.09579) -Samsung, arxiv2018<br>
 [Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation](https://arxiv.org/abs/1802.08948) -Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai, arxiv2018<br>
 [PixelLink: Detecting Scene Text via Instance Segmentation](https://arxiv.org/abs/1801.01315) -Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai, aaai2018<br>
-[EAST: an efficient and accurate scene text detector](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf) -Megvii, cvpr2017<br>
+[EAST: an efficient and accurate scene text detector](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf) -Megvii, cvpr2017, [code](https://github.com/argman/EAST)<br>
 [Scene text detection and segmentation based on cascaded convolution neural networks](https://ieeexplore.ieee.org/abstract/document/7828014/) -Y Tang, X Wu, TIP2017<br>
-[TextBoxes: A Fast Text Detector with a Single Deep Neural Network.](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295) -M Liao, B Shi, X Bai, X Wang, W Liu, AAAI2017<br>
+[TextBoxes: A Fast Text Detector with a Single Deep Neural Network.](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295) -M Liao, B Shi, X Bai, X Wang, W Liu, AAAI2017, [code](https://github.com/MhLiao/TextBoxes)<br>
 [Deep direct regression for multi-oriented scene text detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Deep_Direct_Regression_ICCV_2017_paper.pdf) -W He, XY Zhang, F Yin, CL Liu, ICCV2017<br>
-[Detecting oriented text in natural images by linking segments](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf) -B Shi, X Bai, S Belongie, CVPR2017<br>
+[Detecting oriented text in natural images by linking segments](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf) -B Shi, X Bai, S Belongie, CVPR2017, [code](https://github.com/bgshih/seglink)<br>
 [Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf) -Yuliang Liu, Lianwen Jin, CVPR2017<br>
+[Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection](https://arxiv.org/pdf/1703.01425.pdf) -Yuliang Liu, Lianwen Jin, CVPR2017<br>
 [Feature Enhancement Network: A Refined Scene Text Detector](https://arxiv.org/abs/1711.04249) -Sheng Zhang, Yuliang Liu, Lianwen Jin, Canjie Luo, arxiv2017<br>
 [Single Shot Text Detector with Regional Attention](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf) -Pan He, Weilin Huang, Tong He, Qile Zhu, Yu Qiao, and Xiaolin Li, ICCV2017<br>
 [A Convolutional Neural Network-Based Chinese Text Detection Algorithm via Text Structure Modeling](https://ieeexplore.ieee.org/abstract/document/7733055/) -Xiaohang Ren, Yi Zhou, Jianhua He, Kai Chen, Xiaokang Yang, Jun Sun, TMM2017<br>
 [Fused Text Segmentation Networks for Multi-oriented Scene Text Detection](https://arxiv.org/abs/1709.03272) -Yuchen Dai, et al, arxiv2017<br>
 [Scene Text Detection with Novel Superpixel Based Character Candidate Extraction](https://ieeexplore.ieee.org/abstract/document/8270087/) -Cong Wang, Fei Yin, Cheng-Lin Liu, ICDAR2017<br>
+[WeText: Scene Text Detection under Weak Supervision](https://arxiv.org/abs/1710.04826) -Shangxuan Tian, Shijian Lu, Chongshou Li, ICCV2017<br>
+[WordSup: Exploiting Word Annotations for Character based Text Detection](https://arxiv.org/pdf/1708.06720.pdf) -MSRA, IDL, ICCV2017<br>
 [Deep Residual Text Detection Network for Scene Text](https://arxiv.org/abs/1711.04147) -Xiangyu Zhu, et al, arxiv2017<br>
+[Cascaded Segmentation-Detection Networks for Word-Level Text Spotting](https://arxiv.org/abs/1704.00834) -Siyang Qin, Roberto Manduchi, arxiv2017<br>
+[Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://arxiv.org/pdf/1703.01086.pdf) -Jianqi Ma, et al, TMM2017<br>
 [Multi-oriented text detection with fully convolutional networks](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Multi-Oriented_Text_Detection_CVPR_2016_paper.pdf) -Z Zhang, C Zhang, W Shen, C Yao, CVPR2016<br>
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
@@ -37,9 +40,9 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End
-[E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text]() -Yash Patel, et al, arxiv2018<br>
+[E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text](https://arxiv.org/abs/1801.09919) -Yash Patel, et al, arxiv2018<br>
 [SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](http://arxiv.org/abs/1712.05404) -Christian Bartz, Haojin Yang, Christoph Meinel, AAAI2018<br>
-[Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) -Michal Busta, et al, ICCV2017<br>
+[Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) -Michal Busta, et al, ICCV2017, [code](https://github.com/MichalBusta/DeepTextSpotter)<br>
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
 
 ## Other
@@ -69,4 +72,5 @@ ICDAR2017-Born-Digital Images (Web and Email)<br>
 [ICDAR 2015 competition on robust reading](https://ieeexplore.ieee.org/abstract/document/7333942/)<br>
 [Incidental Scene Text Understanding: Recent Progresses on ICDAR 2015 Robust Reading Competition Challenge 4](https://arxiv.org/abs/1511.09207) -Cong Yao, Jianan Wu, Xinyu Zhou, Chi Zhang, Shuchang Zhou, Zhimin Cao, Qi Yin<br>
 
-
+## Link
+[Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
