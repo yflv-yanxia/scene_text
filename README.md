@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://ieeexplore.ieee.org/abstract/document/8323240/) -J Ma, W Shao, H Ye, L Wang, H Wang, TMM2018<br>
 [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018<br>
 [FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, CVPR2018<br>
 [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/abs/1706.09579) -Samsung, arxiv2018<br>
@@ -27,7 +28,6 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
-[Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://ieeexplore.ieee.org/abstract/document/8323240/) -J Ma, W Shao, H Ye, L Wang, H Wang, TMM2018<br>
 [An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition](https://ieeexplore.ieee.org/abstract/document/7801919/) -B Shi, X Bai, C Yao , TPAMI2017<br>
 [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) -fei yin, et al, arxiv2017<br>
 [Focusing Attention: Towards Accurate Text Recognition in Natural Images](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf) -Zhanzhan Cheng, et al, ICCV2017<br>
