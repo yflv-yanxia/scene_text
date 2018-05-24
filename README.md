@@ -2,7 +2,7 @@
 
 ## Text Detection
 [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://ieeexplore.ieee.org/abstract/document/8323240/) -J Ma, W Shao, H Ye, L Wang, H Wang, TMM2018<br>
-[TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018<br>
+[TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018 [code](https://github.com/MhLiao/TextBoxes_plusplus)<br>
 [FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, CVPR2018<br>
 [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/abs/1706.09579) -Samsung, arxiv2018<br>
 [Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation](https://arxiv.org/abs/1802.08948) -Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai, arxiv2018<br>
