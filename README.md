@@ -28,7 +28,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
-[An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition](https://ieeexplore.ieee.org/abstract/document/7801919/) -B Shi, X Bai, C Yao , TPAMI2017<br>
+[An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition](https://ieeexplore.ieee.org/abstract/document/7801919/) -B Shi, X Bai, C Yao , TPAMI2017 [code](https://github.com/bgshih/crnn)<br>
 [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) -fei yin, et al, arxiv2017<br>
 [Focusing Attention: Towards Accurate Text Recognition in Natural Images](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf) -Zhanzhan Cheng, et al, ICCV2017<br>
 [AdaDNNs: Adaptive Ensemble of Deep Neural Networks for Scene Text Recognition](https://pdfs.semanticscholar.org/2111/d546ac1cbf170302e44a17c88d26b1c55999.pdf) -Chun Yang, Xu-Cheng Yin, arxiv2017<br>
