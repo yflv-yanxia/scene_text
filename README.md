@@ -3,7 +3,6 @@
 ## Text Detection
 [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://ieeexplore.ieee.org/abstract/document/8323240/) -J Ma, W Shao, H Ye, L Wang, H Wang, TMM2018<br>
 [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018 [code](https://github.com/MhLiao/TextBoxes_plusplus)<br>
-[FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, CVPR2018<br>
 [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/abs/1706.09579) -Samsung, arxiv2018<br>
 [Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation](https://arxiv.org/abs/1802.08948) -Pengyuan Lyu, Cong Yao, Wenhao Wu, Shuicheng Yan, Xiang Bai, arxiv2018<br>
 [PixelLink: Detecting Scene Text via Instance Segmentation](https://arxiv.org/abs/1801.01315) -Dan Deng, Haifeng Liu, Xuelong Li, Deng Cai, aaai2018<br>
@@ -28,9 +27,10 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226) -Hikvision, et al, CVPR2018<br>
 [An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition](https://ieeexplore.ieee.org/abstract/document/7801919/) -B Shi, X Bai, C Yao , TPAMI2017 [code](https://github.com/bgshih/crnn)<br>
 [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) -fei yin, et al, arxiv2017<br>
-[Focusing Attention: Towards Accurate Text Recognition in Natural Images](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf) -Zhanzhan Cheng, et al, ICCV2017<br>
+[Focusing Attention: Towards Accurate Text Recognition in Natural Images](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf) -Hikvision, et al, ICCV2017<br>
 [AdaDNNs: Adaptive Ensemble of Deep Neural Networks for Scene Text Recognition](https://pdfs.semanticscholar.org/2111/d546ac1cbf170302e44a17c88d26b1c55999.pdf) -Chun Yang, Xu-Cheng Yin, arxiv2017<br>
 [Strokelets: A learned multi-scale mid-level representation for scene text recognition](https://ieeexplore.ieee.org/abstract/document/7453176/) -X Bai, C Yao, W Liu , TIP2016<br>
 [Reading Scene Text in Deep Convolutional Sequences](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12256/12121) -P He, W Huang, Y Qiao, CC Loy, X Tang, AAAI2016<br>
@@ -40,8 +40,10 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End
+[FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, CVPR2018<br>
 [E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text](https://arxiv.org/abs/1801.09919) -Yash Patel, et al, arxiv2018<br>
 [SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](http://arxiv.org/abs/1712.05404) -Christian Bartz, Haojin Yang, Christoph Meinel, AAAI2018<br>
+[Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf) -Hui Li, et al, ICCV2017<br>
 [Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) -Michal Busta, et al, ICCV2017, [code](https://github.com/MichalBusta/DeepTextSpotter)<br>
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
 
@@ -50,6 +52,9 @@
 [Scene text script identification with convolutional recurrent neural networks](http://ieeexplore.ieee.org/abstract/document/7900268/) -J Mei, L Dai, B Shi, X Bai, ICPR2016<br>
 
 ## Database & Generation
+[Total-Text](https://github.com/cs-chan/Total-Text-Dataset) -1555 images<br>
+[SCUT-CTW1500](https://github.com/Yuliang-Liu/Curve-Text-Detector) -Curved text in the wild<br>
+[MLT: Multi-lingual scene text detection and script identification](http://rrc.cvc.uab.es/?ch=8) -Multi-lingual text: 18,000 images, 9 different languages representing 6 different scripts<br>
 [Synthetic Word Dataset](http://www.robots.ox.ac.uk/~vgg/data/text/), [Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition](https://arxiv.org/abs/1406.2227)<br>
 [Total-text: A comprehensive dataset for scene text detection and recognition](https://ieeexplore.ieee.org/abstract/document/8270088/) - -Chee Kheng Ch'ng, Chee Seng Chan<br>
 Street View Text(SVT)<br>
