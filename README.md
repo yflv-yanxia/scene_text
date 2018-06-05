@@ -27,6 +27,8 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[SCAN: Sliding Convolutional Attention Network for Scene Text Recognition](https://arxiv.org/abs/1806.00578) -Yichao Wu, et al, arxiv2018<br>
+[NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) -Fenfen Sheng, et al, arxiv2018<br>
 [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226) -Hikvision, et al, CVPR2018<br>
 [An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition](https://ieeexplore.ieee.org/abstract/document/7801919/) -B Shi, X Bai, C Yao , TPAMI2017 [code](https://github.com/bgshih/crnn)<br>
 [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/abs/1709.01727) -fei yin, et al, arxiv2017<br>
