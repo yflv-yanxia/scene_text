@@ -53,6 +53,11 @@
 [Text/non-text image classification in the wild with convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0031320316303922) -X Bai, B Shi, C Zhang, X Cai, L Qi, PR2017<br>
 [Scene text script identification with convolutional recurrent neural networks](http://ieeexplore.ieee.org/abstract/document/7900268/) -J Mei, L Dai, B Shi, X Bai, ICPR2016<br>
 
+## Seq2Seq
+[Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122) -FAIR, ICML2017<br>
+[Sequence Level Training with Recurrent Neural Networks](https://arxiv.org/abs/1511.06732) -FAIR, ICLR2016<br>
+[A Convolutional Encoder Model for Neural Machine Translation](https://arxiv.org/abs/1611.02344) -FAIR, arxiv2016<br>
+
 ## Database & Generation
 [Total-Text](https://github.com/cs-chan/Total-Text-Dataset) -1555 images<br>
 [SCUT-CTW1500](https://github.com/Yuliang-Liu/Curve-Text-Detector) -Curved text in the wild<br>
