@@ -1,7 +1,7 @@
 # scene_text
 
 ## Text Detection
-[Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1807.02242) -Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai, arxiv2018<br>
+[TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes](https://arxiv.org/abs/1807.01544) -peking, face++, arxiv2018<br>
 [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://ieeexplore.ieee.org/abstract/document/8323240/) -J Ma, W Shao, H Ye, L Wang, H Wang, TMM2018<br>
 [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018 [code](https://github.com/MhLiao/TextBoxes_plusplus)<br>
 [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/abs/1706.09579) -Samsung, arxiv2018<br>
@@ -43,6 +43,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End
+[Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1807.02242) -Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai, arxiv2018<br>
 [FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, CVPR2018<br>
 [E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text](https://arxiv.org/abs/1801.09919) -Yash Patel, et al, arxiv2018<br>
 [SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](http://arxiv.org/abs/1712.05404) -Christian Bartz, Haojin Yang, Christoph Meinel, AAAI2018<br>
@@ -60,6 +61,7 @@
 [A Convolutional Encoder Model for Neural Machine Translation](https://arxiv.org/abs/1611.02344) -FAIR, arxiv2016<br>
 
 ## Database & Generation
+[Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/pdf/1807.03021.pdf) -Fangneng Zhan, Shijian Lu, and Chuhui Xue, arxiv2018<br>
 [Total-Text](https://github.com/cs-chan/Total-Text-Dataset) -1555 images<br>
 [SCUT-CTW1500](https://github.com/Yuliang-Liu/Curve-Text-Detector) -Curved text in the wild<br>
 [MLT: Multi-lingual scene text detection and script identification](http://rrc.cvc.uab.es/?ch=8) -Multi-lingual text: 18,000 images, 9 different languages representing 6 different scripts<br>
