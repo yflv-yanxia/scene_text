@@ -61,6 +61,10 @@
 [A Convolutional Encoder Model for Neural Machine Translation](https://arxiv.org/abs/1611.02344) -FAIR, arxiv2016<br>
 
 ## Database & Generation
+### chinese
+ICDAR2017-Reading Chinese Text in the Wild (RCTW-17)<br>
+STV2k: A New Benchmark for Scene Text Detection and Recognition<br>
+### other
 [Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/pdf/1807.03021.pdf) -Fangneng Zhan, Shijian Lu, and Chuhui Xue, arxiv2018<br>
 [Total-Text](https://github.com/cs-chan/Total-Text-Dataset) -1555 images<br>
 [SCUT-CTW1500](https://github.com/Yuliang-Liu/Curve-Text-Detector) -Curved text in the wild<br>
@@ -72,7 +76,6 @@ IIIT 5k-words<br>
 MSRA-TD500<br>
 KAIST Scene_Text Database<br>
 ICDAR2011, ICDAR2013, ICDAR2015, ICDAR2017, robust reading-Focused Scene Text<br>
-ICDAR2017-Reading Chinese Text in the Wild (RCTW-17)<br>
 ICDAR2017-ICDAR 2017 Robust Reading Challenge on Omnidirectional Video(DOST)<br>
 COCO-Text<br>
 Google French Street Name Signs (FSNS) dataset<br>
