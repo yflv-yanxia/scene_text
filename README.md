@@ -42,7 +42,7 @@
 [DeepText: A Unified Framework for Text Proposal Generation and Text Detection in Natural Images](https://arxiv.org/abs/1605.07314) -Zhuoyao Zhong, Lianwen Jin, Shuye Zhang, Ziyong Feng, arxiv2016<br>
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
-## End-to-End
+## End-to-End & Text Spotting
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1807.02242) -Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai, arxiv2018<br>
 [FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, CVPR2018<br>
 [E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text](https://arxiv.org/abs/1801.09919) -Yash Patel, et al, arxiv2018<br>
