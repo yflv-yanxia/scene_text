@@ -62,6 +62,7 @@
 
 ## Database & Generation
 ### chinese
+[TRW15: ICDAR 2015 Text Reading in the Wild Competition](https://arxiv.org/abs/1506.03184)<br>
 RCTW-17: ICDAR2017-Reading Chinese Text in the Wild<br>
 STV2k: A New Benchmark for Scene Text Detection and Recognition<br>
 [CTW: Chinese Text in the Wild](https://ctwdataset.github.io/)<br>
