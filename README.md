@@ -67,6 +67,7 @@ RCTW-17: ICDAR2017-Reading Chinese Text in the Wild<br>
 STV2k: A New Benchmark for Scene Text Detection and Recognition<br>
 [CTW: Chinese Text in the Wild](https://ctwdataset.github.io/)<br>
 PAL10K<br>
+[ICPR MTWI 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/information.htm?raceId=231650)<br>
 ### other
 [Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/pdf/1807.03021.pdf) -Fangneng Zhan, Shijian Lu, and Chuhui Xue, arxiv2018<br>
 [Total-Text](https://github.com/cs-chan/Total-Text-Dataset) -1555 images<br>
