@@ -28,6 +28,8 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Edit Probability for Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) -Fudan, Hikvision, cvpr2018<br>
+[Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/abs/1809.06508) -Minghui Liao, Cong Yao, Xiang Bai, et al, arxiv2018<br>
 [SCAN: Sliding Convolutional Attention Network for Scene Text Recognition](https://arxiv.org/abs/1806.00578) -Yichao Wu, et al, arxiv2018<br>
 [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) -Fenfen Sheng, et al, arxiv2018<br>
 [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226) -Hikvision, et al, CVPR2018<br>
