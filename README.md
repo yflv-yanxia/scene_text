@@ -1,7 +1,7 @@
 # scene_text
 
 ## Text Detection
-[IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection](https://arxiv.org/abs/1805.01167) -Qiangpeng Yang, et al, IJCAI2018<br>
+[IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection](https://arxiv.org/abs/1805.01167) -Alibaba, IJCAI2018<br>
 [TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes](https://arxiv.org/abs/1807.01544) -peking, face++, arxiv2018<br>
 [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://ieeexplore.ieee.org/abstract/document/8323240/) -J Ma, W Shao, H Ye, L Wang, H Wang, TMM2018<br>
 [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018 [code](https://github.com/MhLiao/TextBoxes_plusplus)<br>
