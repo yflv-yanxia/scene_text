@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Detecting Text in the Wild with Deep Character Embedding Network](https://arxiv.org/abs/1901.00363) -baidu, arxiv2019<br>
 [Pixel-Anchor: A Fast Oriented Scene Text Detector with Combined Networks](https://arxiv.org/abs/1811.07432) -yuncong, arxiv2018<br>
 [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection](https://arxiv.org/abs/1805.01167) -Alibaba, IJCAI2018<br>
 [TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes](https://arxiv.org/abs/1807.01544) -peking, face++, arxiv2018<br>
@@ -30,6 +31,8 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Recurrent Calibration Network for Irregular Text Recognition](https://arxiv.org/abs/1812.07145) -Hanqing Lu, arxiv2018<br>
+[ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, arxiv2018<br>
 [Edit Probability for Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) -Fudan, Hikvision, cvpr2018<br>
 [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/abs/1809.06508) -Minghui Liao, Cong Yao, Xiang Bai, et al, arxiv2018<br>
 [SCAN: Sliding Convolutional Attention Network for Scene Text Recognition](https://arxiv.org/abs/1806.00578) -Yichao Wu, et al, arxiv2018<br>
