@@ -31,6 +31,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003) -Canjie Luo, Lianwen Jin, Zenghui Sun, PR2019<br>
 [Recurrent Calibration Network for Irregular Text Recognition](https://arxiv.org/abs/1812.07145) -Hanqing Lu, arxiv2018<br>
 [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, arxiv2018<br>
 [Edit Probability for Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) -Fudan, Hikvision, cvpr2018<br>
