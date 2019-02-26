@@ -2,7 +2,12 @@
 
 ## Text Detection
 [Detecting Text in the Wild with Deep Character Embedding Network](https://arxiv.org/abs/1901.00363) -baidu, arxiv2019<br>
-[Pixel-Anchor: A Fast Oriented Scene Text Detector with Combined Networks](https://arxiv.org/abs/1811.07432) -yuncong, arxiv2018<br>
+[TextField: Learning A Deep Direction Field for Irregular Scene Text Detection](https://arxiv.org/abs/1812.01393) -Yongchao Xu, Yukang Wang, Wei Zhou, Yongpan Wang, Zhibo Yang, Xiang Bai, arxiv2018<br>
+[TextMountain: Accurate Scene Text Detection via Instance Segmentation](https://arxiv.org/abs/1811.12786) -Yixing Zhu, Jun Du, arxiv2018<br>
+[Mask R-CNN with Pyramid Attention Network for Scene Text Detection](https://arxiv.org/abs/1811.09058) -MSRA, arxiv2018<br>
+[Scene Text Detection with Supervised Pyramid Context Network](https://arxiv.org/abs/1811.08605) -face++, AAAI2019<br>
+[Pixel-Anchor: A Fast Oriented Scene Text Detector with Combined Networks](https://arxiv.org/abs/1811.07432) -cloudwalk, arxiv2018<br>
+[Improving Rotated Text Detection with Rotation Region Proposal Networks](https://arxiv.org/abs/1811.07031) -facebook, arxiv2018<br>
 [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection](https://arxiv.org/abs/1805.01167) -Alibaba, IJCAI2018<br>
 [TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes](https://arxiv.org/abs/1807.01544) -peking, face++, arxiv2018<br>
 [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://ieeexplore.ieee.org/abstract/document/8323240/) -J Ma, W Shao, H Ye, L Wang, H Wang, TMM2018<br>
@@ -15,7 +20,6 @@
 [TextBoxes: A Fast Text Detector with a Single Deep Neural Network.](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295) -M Liao, B Shi, X Bai, X Wang, W Liu, AAAI2017, [code](https://github.com/MhLiao/TextBoxes)<br>
 [Deep direct regression for multi-oriented scene text detection](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Deep_Direct_Regression_ICCV_2017_paper.pdf) -W He, XY Zhang, F Yin, CL Liu, ICCV2017<br>
 [Detecting oriented text in natural images by linking segments](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf) -B Shi, X Bai, S Belongie, CVPR2017, [code](https://github.com/bgshih/seglink)<br>
-[Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf) -Yuliang Liu, Lianwen Jin, CVPR2017<br>
 [Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection](https://arxiv.org/pdf/1703.01425.pdf) -Yuliang Liu, Lianwen Jin, CVPR2017<br>
 [Feature Enhancement Network: A Refined Scene Text Detector](https://arxiv.org/abs/1711.04249) -Sheng Zhang, Yuliang Liu, Lianwen Jin, Canjie Luo, arxiv2017<br>
 [Single Shot Text Detector with Regional Attention](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf) -Pan He, Weilin Huang, Tong He, Qile Zhu, Yu Qiao, and Xiaolin Li, ICCV2017<br>
@@ -51,6 +55,8 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[A Novel Integrated Framework for Learning both Text Detection and Recognition](https://arxiv.org/abs/1811.08611) -alibaba, arxiv2018<br>
+[TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network](https://arxiv.org/abs/1812.09900) -baidu, arxiv2018<br>
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1807.02242) -Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai, arxiv2018<br>
 [FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, CVPR2018<br>
 [E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text](https://arxiv.org/abs/1801.09919) -Yash Patel, et al, arxiv2018<br>
@@ -60,6 +66,7 @@
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
 
 ## Other
+[Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256) -face++, arxiv2018<br>
 [Text/non-text image classification in the wild with convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0031320316303922) -X Bai, B Shi, C Zhang, X Cai, L Qi, PR2017<br>
 [Scene text script identification with convolutional recurrent neural networks](http://ieeexplore.ieee.org/abstract/document/7900268/) -J Mei, L Dai, B Shi, X Bai, ICPR2016<br>
 
