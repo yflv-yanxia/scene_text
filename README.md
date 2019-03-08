@@ -10,6 +10,7 @@
 [Improving Rotated Text Detection with Rotation Region Proposal Networks](https://arxiv.org/abs/1811.07031) -facebook, arxiv2018<br>
 [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection](https://arxiv.org/abs/1805.01167) -Alibaba, IJCAI2018<br>
 [TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes](https://arxiv.org/abs/1807.01544) -peking, face++, arxiv2018<br>
+[PSENET: Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/abs/1806.02559) -deepinsight, arxiv2018<br>
 [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://ieeexplore.ieee.org/abstract/document/8323240/) -J Ma, W Shao, H Ye, L Wang, H Wang, TMM2018<br>
 [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018 [code](https://github.com/MhLiao/TextBoxes_plusplus)<br>
 [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/abs/1706.09579) -Samsung, arxiv2018<br>
@@ -61,6 +62,7 @@
 [FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671) -Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan, CVPR2018<br>
 [E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text](https://arxiv.org/abs/1801.09919) -Yash Patel, et al, arxiv2018<br>
 [SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](http://arxiv.org/abs/1712.05404) -Christian Bartz, Haojin Yang, Christoph Meinel, AAAI2018<br>
+[An end-to-end TextSpotter with Explicit Alignment and Attention](https://arxiv.org/abs/1803.03474) -Tong He, Zhi Tian, Weilin Huang, Chunhua Shen, Yu Qiao, Changming Sun, CVPR2018<br>
 [Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf) -Hui Li, et al, ICCV2017<br>
 [Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) -Michal Busta, et al, ICCV2017, [code](https://github.com/MichalBusta/DeepTextSpotter)<br>
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
