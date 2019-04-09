@@ -39,8 +39,11 @@
 [A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003) -Canjie Luo, Lianwen Jin, Zenghui Sun, PR2019<br>
 [Recurrent Calibration Network for Irregular Text Recognition](https://arxiv.org/abs/1812.07145) -Hanqing Lu, arxiv2018<br>
 [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, arxiv2018<br>
+[Synthetically Supervised Feature Learning for Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf) -Adobe, ECCV2018<br>
+[ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](https://ieeexplore.ieee.org/document/8395027) -Baixiang, PAMI2018<br>
 [Edit Probability for Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) -Fudan, Hikvision, cvpr2018<br>
 [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/abs/1809.06508) -Minghui Liao, Cong Yao, Xiang Bai, et al, arxiv2018<br>
+[SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network](https://pdfs.semanticscholar.org/0e59/f7d7e9c9380b425a94038c7a2500b2f6063a.pdf) -Zichuan Liu, et al, AAAI2018<br>
 [SCAN: Sliding Convolutional Attention Network for Scene Text Recognition](https://arxiv.org/abs/1806.00578) -Yichao Wu, et al, arxiv2018<br>
 [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) -Fenfen Sheng, et al, arxiv2018<br>
 [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226) -Hikvision, et al, CVPR2018<br>
@@ -112,4 +115,5 @@ ICDAR2017-Born-Digital Images (Web and Email)<br>
 [Incidental Scene Text Understanding: Recent Progresses on ICDAR 2015 Robust Reading Competition Challenge 4](https://arxiv.org/abs/1511.09207) -Cong Yao, Jianan Wu, Xinyu Zhou, Chi Zhang, Shuchang Zhou, Zhimin Cao, Qi Yin<br>
 
 ## Link
+[awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 [Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
