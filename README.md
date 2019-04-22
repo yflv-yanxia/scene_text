@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941.pdf) -Clova, CVPR2019<br>
 [Detecting Text in the Wild with Deep Character Embedding Network](https://arxiv.org/abs/1901.00363) -baidu, arxiv2019<br>
 [TextField: Learning A Deep Direction Field for Irregular Scene Text Detection](https://arxiv.org/abs/1812.01393) -Yongchao Xu, Yukang Wang, Wei Zhou, Yongpan Wang, Zhibo Yang, Xiang Bai, arxiv2018<br>
 [TextMountain: Accurate Scene Text Detection via Instance Segmentation](https://arxiv.org/abs/1811.12786) -Yixing Zhu, Jun Du, arxiv2018<br>
