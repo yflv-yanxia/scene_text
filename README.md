@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Pyramid Mask Text Detector](https://arxiv.org/abs/1903.11800) -sensetime, arxiv2019<br>
 [Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes](https://arxiv.org/abs/1904.06535) -baidu, arxiv2019<br>
 [Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941.pdf) -Clova, CVPR2019<br>
 [Detecting Text in the Wild with Deep Character Embedding Network](https://arxiv.org/abs/1901.00363) -baidu, arxiv2019<br>
