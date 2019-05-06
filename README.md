@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes](https://arxiv.org/abs/1904.06535) -baidu, arxiv2019<br>
 [Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941.pdf) -Clova, CVPR2019<br>
 [Detecting Text in the Wild with Deep Character Embedding Network](https://arxiv.org/abs/1901.00363) -baidu, arxiv2019<br>
 [TextField: Learning A Deep Direction Field for Irregular Scene Text Detection](https://arxiv.org/abs/1812.01393) -Yongchao Xu, Yukang Wang, Wei Zhou, Yongpan Wang, Zhibo Yang, Xiang Bai, arxiv2018<br>
@@ -37,6 +38,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[FACLSTM: ConvLSTM with Focused Attention for Scene Text Recognition](https://arxiv.org/abs/1904.09405) -Qingqing Wang, et al, arxiv2019<br>
 [A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003) -Canjie Luo, Lianwen Jin, Zenghui Sun, PR2019<br>
 [Recurrent Calibration Network for Irregular Text Recognition](https://arxiv.org/abs/1812.07145) -Hanqing Lu, arxiv2018<br>
 [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, arxiv2018<br>
