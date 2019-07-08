@@ -39,6 +39,8 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -LiHui, et al, arxiv2019<br>
+[2D Attentional Irregular Scene Text Recognizer](https://arxiv.org/abs/1906.05708) -Tencent, arxiv2019<br>
 [FACLSTM: ConvLSTM with Focused Attention for Scene Text Recognition](https://arxiv.org/abs/1904.09405) -Qingqing Wang, et al, arxiv2019<br>
 [A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003) -Canjie Luo, Lianwen Jin, Zenghui Sun, PR2019<br>
 [Recurrent Calibration Network for Irregular Text Recognition](https://arxiv.org/abs/1812.07145) -Hanqing Lu, arxiv2018<br>
