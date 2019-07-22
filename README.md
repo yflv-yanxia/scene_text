@@ -76,6 +76,10 @@
 [Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) -Michal Busta, et al, ICCV2017, [code](https://github.com/MichalBusta/DeepTextSpotter)<br>
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
 
+### Synthesis
+[SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds](https://arxiv.org/abs/1907.06007) -Minghui Liao, Boyu Song, Minghang He, Shangbang Long, Cong Yao, Xiang Bai, arxiv2019<br>
+[Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/abs/1807.03021) -Fangneng Zhan, Shijian Lu, Chuhui Xue, ECCV2018<br>
+
 ## Other
 [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256) -face++, arxiv2018<br>
 [Text/non-text image classification in the wild with convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0031320316303922) -X Bai, B Shi, C Zhang, X Cai, L Qi, PR2017<br>
