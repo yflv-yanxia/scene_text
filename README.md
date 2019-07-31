@@ -3,7 +3,7 @@
 ## Text Detection
 [Learning Shape-Aware Embedding for Scene Text Detection](http://jiaya.me/papers/textdetection_cvpr19.pdf) -CUHK, Tencent, CVPR2019<br>
 [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/abs/1903.12473) -megi++, CVPR2019<br>
-[https://arxiv.org/abs/1905.05980](https://arxiv.org/abs/1905.05980) -Xiaobing Wang, Yingying Jiang, Zhenbo Luo, Cheng-Lin Liu, Hyunsoo Choi, Sungjin Kim, CVPR2019<br>
+[Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation](https://arxiv.org/abs/1905.05980) -Xiaobing Wang, Yingying Jiang, Zhenbo Luo, Cheng-Lin Liu, Hyunsoo Choi, Sungjin Kim, CVPR2019<br>
 [Character Region Awareness for Text Detection](https://arxiv.org/abs/1904.01941) -Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee, CVPR2019<br>
 [Towards Robust Curve Text Detection with Conditional Spatial Expansion](https://arxiv.org/abs/1903.08836) -Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh, CVPR2019<br>
 [Pyramid Mask Text Detector](https://arxiv.org/abs/1903.11800) -sensetime, arxiv2019<br>
@@ -45,6 +45,7 @@
 
 ## Text Recognition
 [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364) -Zecheng Xie, Yaoxiong Huang, Yuanzhi Zhu, Lianwen Jin, Yuliang Liu, Lele Xie, CVPR2019,[code](https://github.com/summerlvsong/Aggregation-Cross-Entropy)<br>
+[Sequence-to-Sequence Domain Adaptation Networkfor Robust Text Image Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf), CASIA, CVPR2019<br>
 [Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -LiHui, et al, arxiv2019<br>
 [2D Attentional Irregular Scene Text Recognizer](https://arxiv.org/abs/1906.05708) -Tencent, arxiv2019<br>
 [FACLSTM: ConvLSTM with Focused Attention for Scene Text Recognition](https://arxiv.org/abs/1904.09405) -Qingqing Wang, et al, arxiv2019<br>
@@ -72,6 +73,7 @@
 
 ## End-to-End & Text Spotting
 [Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -Hui Li, Peng Wang, Chunhua Shen, arxiv2019<br>
+[ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, CVPR2019<br>
 [A Novel Integrated Framework for Learning both Text Detection and Recognition](https://arxiv.org/abs/1811.08611) -alibaba, arxiv2018<br>
 [TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network](https://arxiv.org/abs/1812.09900) -baidu, arxiv2018<br>
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1807.02242) -Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai, arxiv2018<br>
@@ -85,6 +87,7 @@
 
 ### Synthesis
 [SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds](https://arxiv.org/abs/1907.06007) -Minghui Liao, Boyu Song, Minghang He, Shangbang Long, Cong Yao, Xiang Bai, arxiv2019<br>
+[Spatial Fusion GAN for Image Synthesis](https://arxiv.org/abs/1812.05840) -Fangneng Zhan, Hongyuan Zhu, Shijian Lu, CVPR2019<br>
 [Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/abs/1807.03021) -Fangneng Zhan, Shijian Lu, Chuhui Xue, ECCV2018<br>
 
 ### Evaluation
