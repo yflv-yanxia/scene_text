@@ -1,8 +1,13 @@
 # scene_text
 
 ## Text Detection
+[Learning Shape-Aware Embedding for Scene Text Detection](http://jiaya.me/papers/textdetection_cvpr19.pdf) -CUHK, Tencent, CVPR2019<br>
+[Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/abs/1903.12473) -megi++, CVPR2019<br>
+[https://arxiv.org/abs/1905.05980](https://arxiv.org/abs/1905.05980) -Xiaobing Wang, Yingying Jiang, Zhenbo Luo, Cheng-Lin Liu, Hyunsoo Choi, Sungjin Kim, CVPR2019<br>
+[Character Region Awareness for Text Detection](https://arxiv.org/abs/1904.01941) -Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee, CVPR2019<br>
+[Towards Robust Curve Text Detection with Conditional Spatial Expansion](https://arxiv.org/abs/1903.08836) -Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh, CVPR2019<br>
 [Pyramid Mask Text Detector](https://arxiv.org/abs/1903.11800) -sensetime, arxiv2019<br>
-[Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes](https://arxiv.org/abs/1904.06535) -baidu, arxiv2019<br>
+[Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes](https://arxiv.org/abs/1904.06535) -baidu, CVPR2019<br>
 [Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941.pdf) -Clova, CVPR2019<br>
 [Detecting Text in the Wild with Deep Character Embedding Network](https://arxiv.org/abs/1901.00363) -baidu, arxiv2019<br>
 [TextField: Learning A Deep Direction Field for Irregular Scene Text Detection](https://arxiv.org/abs/1812.01393) -Yongchao Xu, Yukang Wang, Wei Zhou, Yongpan Wang, Zhibo Yang, Xiang Bai, arxiv2018<br>
@@ -13,7 +18,7 @@
 [Improving Rotated Text Detection with Rotation Region Proposal Networks](https://arxiv.org/abs/1811.07031) -facebook, arxiv2018<br>
 [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection](https://arxiv.org/abs/1805.01167) -Alibaba, IJCAI2018<br>
 [TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes](https://arxiv.org/abs/1807.01544) -peking, face++, arxiv2018<br>
-[PSENET: Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/abs/1806.02559) -deepinsight, arxiv2018<br>
+[PSENET: Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/abs/1806.02559) -deepinsight, CVPR2019<br>
 [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://ieeexplore.ieee.org/abstract/document/8323240/) -J Ma, W Shao, H Ye, L Wang, H Wang, TMM2018<br>
 [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/abs/1801.02765) -Minghui Liao, Baoguang Shi, Xiang Bai, arxiv2018 [code](https://github.com/MhLiao/TextBoxes_plusplus)<br>
 [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/abs/1706.09579) -Samsung, arxiv2018<br>
@@ -39,7 +44,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
-[Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364) -Zecheng Xie, Yaoxiong Huang, Yuanzhi Zhu, Lianwen Jin, Yuliang Liu, Lele Xie, CVPR2019<br>
+[Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364) -Zecheng Xie, Yaoxiong Huang, Yuanzhi Zhu, Lianwen Jin, Yuliang Liu, Lele Xie, CVPR2019,[code](https://github.com/summerlvsong/Aggregation-Cross-Entropy)<br>
 [Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -LiHui, et al, arxiv2019<br>
 [2D Attentional Irregular Scene Text Recognizer](https://arxiv.org/abs/1906.05708) -Tencent, arxiv2019<br>
 [FACLSTM: ConvLSTM with Focused Attention for Scene Text Recognition](https://arxiv.org/abs/1904.09405) -Qingqing Wang, et al, arxiv2019<br>
@@ -66,6 +71,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -Hui Li, Peng Wang, Chunhua Shen, arxiv2019<br>
 [A Novel Integrated Framework for Learning both Text Detection and Recognition](https://arxiv.org/abs/1811.08611) -alibaba, arxiv2018<br>
 [TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network](https://arxiv.org/abs/1812.09900) -baidu, arxiv2018<br>
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1807.02242) -Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai, arxiv2018<br>
@@ -80,6 +86,9 @@
 ### Synthesis
 [SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds](https://arxiv.org/abs/1907.06007) -Minghui Liao, Boyu Song, Minghang He, Shangbang Long, Cong Yao, Xiang Bai, arxiv2019<br>
 [Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/abs/1807.03021) -Fangneng Zhan, Shijian Lu, Chuhui Xue, ECCV2018<br>
+
+### Evaluation
+[Tightness-aware Evaluation Protocol for Scene Text Detection](https://arxiv.org/abs/1904.00813) -jinlianwen, CVPR2019<br>
 
 ## Other
 [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256) -face++, arxiv2018<br>
@@ -129,3 +138,4 @@ ICDAR2017-Born-Digital Images (Web and Email)<br>
 ## Link
 [awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)<br>
 [Awesome-Scene-Text-Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)<br>
+[Scene Text Detection](https://paperswithcode.com/task/scene-text-detection/codeless)<br>
