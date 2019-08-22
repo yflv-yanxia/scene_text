@@ -50,6 +50,7 @@
 [2D Attentional Irregular Scene Text Recognizer](https://arxiv.org/abs/1906.05708) -Tencent, arxiv2019<br>
 [FACLSTM: ConvLSTM with Focused Attention for Scene Text Recognition](https://arxiv.org/abs/1904.09405) -Qingqing Wang, et al, arxiv2019<br>
 [A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003) -Canjie Luo, Lianwen Jin, Zenghui Sun, PR2019<br>
+[Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/abs/1811.00751) -Hui Li, Peng Wang, Chunhua Shen, Guyu Zhang, AAAI2019<br>
 [Recurrent Calibration Network for Irregular Text Recognition](https://arxiv.org/abs/1812.07145) -Hanqing Lu, arxiv2018<br>
 [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, arxiv2018<br>
 [Synthetically Supervised Feature Learning for Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf) -Adobe, ECCV2018<br>
