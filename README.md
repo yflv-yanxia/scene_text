@@ -46,6 +46,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/abs/1908.01957) -baixiang, ICCV2019<br>
 [Adaptive Embedding Gate for Attention-Based Scene Text Recognition](https://arxiv.org/abs/1908.09475) -Linwen Jin, arxiv2019<br>
 [Focus-Enhanced Scene Text Recognition with Deformable Convolutions](https://arxiv.org/abs/1908.10998) -Yanxiang Gong, arxiv2019, [code](https://github.com/Alpaca07/dtr)<br>
 [Alchemy: Techniques for Rectification Based Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834) -ICDAR19 art champion, [code](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy)<br>
@@ -78,6 +79,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) -face++,  ICCV 2019, <br>
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1908.08207) -baixiang, TPAMI2019<br>
 [Towards Unconstrained End-to-End Text Spotting](https://arxiv.org/abs/1908.09231) -google ai, arxiv2019<br>
 [Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -Hui Li, Peng Wang, Chunhua Shen, arxiv2019<br>
@@ -103,6 +105,7 @@
 [Tightness-aware Evaluation Protocol for Scene Text Detection](https://arxiv.org/abs/1904.00813) -jinlianwen, CVPR2019<br>
 
 ## Other
+[Editing Text in the Wild](https://arxiv.org/abs/1908.03047) -baixiang, ACM MM2019<br>
 [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256) -face++, arxiv2018<br>
 [Text/non-text image classification in the wild with convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0031320316303922) -X Bai, B Shi, C Zhang, X Cai, L Qi, PR2017<br>
 [Scene text script identification with convolutional recurrent neural networks](http://ieeexplore.ieee.org/abstract/document/7900268/) -J Mei, L Dai, B Shi, X Bai, ICPR2016<br>
