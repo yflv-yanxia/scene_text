@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[FaSTExt: Fast and Small Text Extractor](https://arxiv.org/abs/1908.09231) -Alexander Filonenko, arxiv2019<br>
 [Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning](https://arxiv.org/abs/1908.09990) -Xugong Qin, arxiv2019<br>
 [Learning Shape-Aware Embedding for Scene Text Detection](http://jiaya.me/papers/textdetection_cvpr19.pdf) -CUHK, Tencent, CVPR2019<br>
 [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/abs/1903.12473) -megi++, CVPR2019<br>
@@ -77,6 +78,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[Towards Unconstrained End-to-End Text Spotting](https://arxiv.org/abs/1908.09231) -google ai, arxiv2019<br>
 [Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -Hui Li, Peng Wang, Chunhua Shen, arxiv2019<br>
 [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, CVPR2019<br>
 [A Novel Integrated Framework for Learning both Text Detection and Recognition](https://arxiv.org/abs/1811.08611) -alibaba, arxiv2018<br>
