@@ -1,6 +1,8 @@
 # scene_text
 
 ## Text Detection
+[A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning](https://arxiv.org/abs/1908.05498) -Pengfei Wang, arxiv2019<br>
+[It's All About The Scale -- Efficient Text Detection Using Adaptive Scaling](https://arxiv.org/abs/1907.12122) -Elad Richardson, arxiv2019<br>
 [FaSTExt: Fast and Small Text Extractor](https://arxiv.org/abs/1908.09231) -Alexander Filonenko, arxiv2019<br>
 [Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning](https://arxiv.org/abs/1908.09990) -Xugong Qin, arxiv2019<br>
 [Learning Shape-Aware Embedding for Scene Text Detection](http://jiaya.me/papers/textdetection_cvpr19.pdf) -CUHK, Tencent, CVPR2019<br>
@@ -46,6 +48,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Deep Neural Network for Semantic-based Text Recognition in Images](https://arxiv.org/abs/1908.01403) -Yi Zheng, arxiv2019<br>
 [Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/abs/1908.01957) -baixiang, ICCV2019<br>
 [Adaptive Embedding Gate for Attention-Based Scene Text Recognition](https://arxiv.org/abs/1908.09475) -Linwen Jin, arxiv2019<br>
 [Focus-Enhanced Scene Text Recognition with Deformable Convolutions](https://arxiv.org/abs/1908.10998) -Yanxiang Gong, arxiv2019, [code](https://github.com/Alpaca07/dtr)<br>
