@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning](https://arxiv.org/abs/1908.09990) -Xugong Qin, arxiv2019<br>
 [Learning Shape-Aware Embedding for Scene Text Detection](http://jiaya.me/papers/textdetection_cvpr19.pdf) -CUHK, Tencent, CVPR2019<br>
 [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/abs/1903.12473) -megi++, CVPR2019<br>
 [Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation](https://arxiv.org/abs/1905.05980) -Xiaobing Wang, Yingying Jiang, Zhenbo Luo, Cheng-Lin Liu, Hyunsoo Choi, Sungjin Kim, CVPR2019<br>
@@ -44,6 +45,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Adaptive Embedding Gate for Attention-Based Scene Text Recognition](https://arxiv.org/abs/1908.09475) -Linwen Jin, arxiv2019<br>
 [Focus-Enhanced Scene Text Recognition with Deformable Convolutions](https://arxiv.org/abs/1908.10998) -Yanxiang Gong, arxiv2019, [code](https://github.com/Alpaca07/dtr)<br>
 [Alchemy: Techniques for Rectification Based Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834) -ICDAR19 art champion, [code](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy)<br>
 [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364) -Zecheng Xie, Yaoxiong Huang, Yuanzhi Zhu, Lianwen Jin, Yuliang Liu, Lele Xie, CVPR2019,[code](https://github.com/summerlvsong/Aggregation-Cross-Entropy)<br>
