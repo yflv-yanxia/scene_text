@@ -105,6 +105,7 @@
 [Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/abs/1807.03021) -Fangneng Zhan, Shijian Lu, Chuhui Xue, ECCV2018<br>
 
 ### Evaluation
+[End-To-End Measure for Text Recognition](https://arxiv.org/abs/1908.09584) -ICDAR2019<br>
 [Tightness-aware Evaluation Protocol for Scene Text Detection](https://arxiv.org/abs/1904.00813) -jinlianwen, CVPR2019<br>
 
 ## Other
