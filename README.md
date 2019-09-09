@@ -44,6 +44,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Focus-Enhanced Scene Text Recognition with Deformable Convolutions](https://arxiv.org/abs/1908.10998) -Yanxiang Gong, arxiv2019, [code](https://github.com/Alpaca07/dtr)<br>
 [Alchemy: Techniques for Rectification Based Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834) -ICDAR19 art champion, [code](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy)<br>
 [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364) -Zecheng Xie, Yaoxiong Huang, Yuanzhi Zhu, Lianwen Jin, Yuliang Liu, Lele Xie, CVPR2019,[code](https://github.com/summerlvsong/Aggregation-Cross-Entropy)<br>
 [Sequence-to-Sequence Domain Adaptation Networkfor Robust Text Image Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf), CASIA, CVPR2019<br>
