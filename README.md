@@ -109,6 +109,7 @@
 [Tightness-aware Evaluation Protocol for Scene Text Detection](https://arxiv.org/abs/1904.00813) -jinlianwen, CVPR2019<br>
 
 ## Other
+[TextSR: Content-Aware Text Super-Resolution Guided by Recognition](https://arxiv.org/abs/1909.07113) -forevision, arxiv2019<br>
 [Editing Text in the Wild](https://arxiv.org/abs/1908.03047) -baixiang, ACM MM2019<br>
 [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256) -face++, arxiv2018<br>
 [Text/non-text image classification in the wild with convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0031320316303922) -X Bai, B Shi, C Zhang, X Cai, L Qi, PR2017<br>
