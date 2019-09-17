@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) -face++,  ICCV 2019, <br>
 [A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning](https://arxiv.org/abs/1908.05498) -Pengfei Wang, arxiv2019<br>
 [It's All About The Scale -- Efficient Text Detection Using Adaptive Scaling](https://arxiv.org/abs/1907.12122) -Elad Richardson, arxiv2019<br>
 [FaSTExt: Fast and Small Text Extractor](https://arxiv.org/abs/1908.09231) -Alexander Filonenko, arxiv2019<br>
@@ -57,6 +58,7 @@
 [Sequence-to-Sequence Domain Adaptation Networkfor Robust Text Image Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf), CASIA, CVPR2019<br>
 [Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -LiHui, et al, arxiv2019<br>
 [2D Attentional Irregular Scene Text Recognizer](https://arxiv.org/abs/1906.05708) -Tencent, arxiv2019<br>
+[ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, CVPR2019<br>
 [FACLSTM: ConvLSTM with Focused Attention for Scene Text Recognition](https://arxiv.org/abs/1904.09405) -Qingqing Wang, et al, arxiv2019<br>
 [A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003) -Canjie Luo, Lianwen Jin, Zenghui Sun, PR2019<br>
 [Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/abs/1811.00751) -Hui Li, Peng Wang, Chunhua Shen, Guyu Zhang, AAAI2019, [code](https://tinyurl.com/ShowAttendRead)<br>
@@ -82,11 +84,9 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
-[Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) -face++,  ICCV 2019, <br>
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1908.08207) -baixiang, TPAMI2019<br>
 [Towards Unconstrained End-to-End Text Spotting](https://arxiv.org/abs/1908.09231) -google ai, arxiv2019<br>
 [Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -Hui Li, Peng Wang, Chunhua Shen, arxiv2019<br>
-[ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, CVPR2019<br>
 [A Novel Integrated Framework for Learning both Text Detection and Recognition](https://arxiv.org/abs/1811.08611) -alibaba, arxiv2018<br>
 [TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network](https://arxiv.org/abs/1812.09900) -baidu, arxiv2018<br>
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1807.02242) -Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai, arxiv2018<br>
