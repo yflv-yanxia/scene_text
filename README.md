@@ -84,6 +84,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/1911.09550) -baixiang, AAAI2020<br>
 [Convolutional Character Networks](https://arxiv.org/abs/1910.07954) -Linjie Xing, Zhi Tian, Weilin Huang, Matthew R. Scott, ICCV2019<br>
 [TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.pdf) -Chenglin Liu, CVPR2019<br>
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1908.08207) -baixiang, TPAMI2019<br>
