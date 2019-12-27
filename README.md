@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Exploring the Capacity of Sequential-free Box Discretization Network for Omnidirectional Scene Text Detection](https://arxiv.org/abs/1912.09629) -jinlianwen, arxiv2019<br>
 [Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) -face++,  ICCV 2019, <br>
 [A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning](https://arxiv.org/abs/1908.05498) -Pengfei Wang, arxiv2019<br>
 [It's All About The Scale -- Efficient Text Detection Using Adaptive Scaling](https://arxiv.org/abs/1907.12122) -Elad Richardson, arxiv2019<br>
