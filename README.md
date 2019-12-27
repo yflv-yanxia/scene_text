@@ -51,6 +51,7 @@
 
 ## Text Recognition
 [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205) -jianlianwen, AAAI2020<br>
+[A Feasible Framework for Arbitrary-Shaped Scene Text Recognition](https://arxiv.org/abs/1912.04561) -champion in ICDAR19, arxiv2019[code](https://github.com/zhang0jhon/AttentionOCR)<br>
 [Deep Neural Network for Semantic-based Text Recognition in Images](https://arxiv.org/abs/1908.01403) -Yi Zheng, arxiv2019<br>
 [Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/abs/1908.01957) -baixiang, ICCV2019<br>
 [Adaptive Embedding Gate for Attention-Based Scene Text Recognition](https://arxiv.org/abs/1908.09475) -Linwen Jin, arxiv2019<br>
@@ -112,6 +113,9 @@
 ### Evaluation
 [End-To-End Measure for Text Recognition](https://arxiv.org/abs/1908.09584) -ICDAR2019<br>
 [Tightness-aware Evaluation Protocol for Scene Text Detection](https://arxiv.org/abs/1904.00813) -jinlianwen, CVPR2019<br>
+
+### Script identification
+[Patch Aggregator for Scene Text Script Identification](https://arxiv.org/abs/1912.03818) --baixiang, arxiv2019<br>
 
 ## Other
 [TextSR: Content-Aware Text Super-Resolution Guided by Recognition](https://arxiv.org/abs/1909.07113) -forevision, arxiv2019<br>
