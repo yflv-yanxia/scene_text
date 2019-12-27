@@ -49,6 +49,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205) -jianlianwen, AAAI2020<br>
 [Deep Neural Network for Semantic-based Text Recognition in Images](https://arxiv.org/abs/1908.01403) -Yi Zheng, arxiv2019<br>
 [Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/abs/1908.01957) -baixiang, ICCV2019<br>
 [Adaptive Embedding Gate for Attention-Based Scene Text Recognition](https://arxiv.org/abs/1908.09475) -Linwen Jin, arxiv2019<br>
