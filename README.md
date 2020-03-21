@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Gliding vertex on the horizontal bounding box for multi-oriented object detection](https://arxiv.org/abs/1911.09358) -Xiang Bai, arxiv2019[code](https://github.com/MingtaoFu/gliding_vertex)<br>
 [Exploring the Capacity of Sequential-free Box Discretization Network for Omnidirectional Scene Text Detection](https://arxiv.org/abs/1912.09629) -jinlianwen, arxiv2019<br>
 [Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) -face++,  ICCV 2019, <br>
 [A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning](https://arxiv.org/abs/1908.05498) -Pengfei Wang, arxiv2019<br>
