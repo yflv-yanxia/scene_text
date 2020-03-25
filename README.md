@@ -107,7 +107,6 @@
 
 ### Synthesis
 [SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds](https://arxiv.org/abs/1907.06007) -Minghui Liao, Boyu Song, Minghang He, Shangbang Long, Cong Yao, Xiang Bai, arxiv2019[code](https://github.com/Sunshine352/SF-GAN)<br>
-[Handwriting Recognition in Low-resource Scripts using Adversarial Learning](https://arxiv.org/abs/1811.01396) -Ayan Kumar Bhunia, et. al, CVPR2019[code](https://github.com/AyanKumarBhunia/Handwriting_Recogition_using_Adversarial_Learning)<br>
 [Spatial Fusion GAN for Image Synthesis](https://arxiv.org/abs/1812.05840) -Fangneng Zhan, Hongyuan Zhu, Shijian Lu, CVPR2019<br>
 [Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/abs/1807.03021) -Fangneng Zhan, Shijian Lu, Chuhui Xue, ECCV2018<br>
 
