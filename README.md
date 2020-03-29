@@ -1,6 +1,10 @@
 # scene_text
 
 ## Text Detection
+[Efficient Scene Text Detection with Textual Attention Tower](https://arxiv.org/abs/2002.03741) -Liang Zhang, ICASSP2020<br>
+[Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images](https://arxiv.org/abs/2002.06423) -Kinjal Dasgupta, arxiv2020<br>
+[PuzzleNet: Scene Text Detection by Segment Context Graph Learning](https://arxiv.org/abs/2002.11371) -Hao Liu, arxiv2020<br>
+[Refined Gate: A Simple and Effective Gating Mechanism for Recurrent Units](https://arxiv.org/abs/2002.11338) -Yu Qiao, arxiv2020<br>
 [Gliding vertex on the horizontal bounding box for multi-oriented object detection](https://arxiv.org/abs/1911.09358) -Xiang Bai, arxiv2019[code](https://github.com/MingtaoFu/gliding_vertex)<br>
 [Exploring the Capacity of Sequential-free Box Discretization Network for Omnidirectional Scene Text Detection](https://arxiv.org/abs/1912.09629) -jinlianwen, arxiv2019<br>
 [Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) -face++,  ICCV 2019, <br>
@@ -51,8 +55,17 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276) -Wenyang Hu, AAAI2020<br>
+[A New Perspective for Flexible Feature Gathering in Scene Text Recognition Via Character Anchor Pooling](https://arxiv.org/abs/2002.03509) -yao cong, ICASSP2020<br>
+[ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network](https://arxiv.org/abs/2002.10200) -jin lianwen, CVPR2020<br>
+[SCATTER: Selective Context Attentional Scene Text Recognizer](https://arxiv.org/abs/2003.11288) -Ron Litman, CVPR2020<br>
+[Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077) -Xinjie Feng, arxiv2020<br>
+[Efficient Backbone Search for Scene Text Recognition](https://arxiv.org/abs/2003.06567) -baixiang, arxiv2020<br>
 [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205) -jianlianwen, AAAI2020<br>
-[A Feasible Framework for Arbitrary-Shaped Scene Text Recognition](https://arxiv.org/abs/1912.04561) -champion in ICDAR19, arxiv2019[code](https://github.com/zhang0jhon/AttentionOCR)<br>
+[Fast Dense Residual Network: Enhancing Global Dense Feature Flow for Text Recognition](https://arxiv.org/abs/2001.09021) -Zhao Zhang, arxiv2020<br>
+[Separating Content from Style Using Adversarial Learning for Recognizing Text in the Wild](https://arxiv.org/abs/2001.04189) -jin lianwen, arxiv2020<br>
+[TextScanner: Reading Characters in Order for Robust Scene Text Recognition](https://arxiv.org/abs/1912.12422) -yao cong, AAAI2020<br>
+[A Feasible Framework for Arbitrary-Shaped Scene Text Recognition](https://arxiv.org/abs/1912.04561) -champion in ICDAR2019, arxiv2019[code](https://github.com/zhang0jhon/AttentionOCR)<br>
 [Deep Neural Network for Semantic-based Text Recognition in Images](https://arxiv.org/abs/1908.01403) -Yi Zheng, arxiv2019<br>
 [Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/abs/1908.01957) -baixiang, ICCV2019<br>
 [Adaptive Embedding Gate for Attention-Based Scene Text Recognition](https://arxiv.org/abs/1908.09475) -Linwen Jin, arxiv2019<br>
@@ -88,6 +101,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/2002.06820) -Liang Qiao, AAAI2020<br>
 [All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/1911.09550) -baixiang, AAAI2020<br>
 [Convolutional Character Networks](https://arxiv.org/abs/1910.07954) -Linjie Xing, Zhi Tian, Weilin Huang, Matthew R. Scott, ICCV2019<br>
 [TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.pdf) -Chenglin Liu, CVPR2019<br>
@@ -106,6 +120,7 @@
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
 
 ### Synthesis
+[ScrabbleGAN: Semi-Supervised Varying Length Handwritten Text Generation](https://arxiv.org/abs/2003.10557) -Sharon Fogel, CVPR2020<br>
 [SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds](https://arxiv.org/abs/1907.06007) -Minghui Liao, Boyu Song, Minghang He, Shangbang Long, Cong Yao, Xiang Bai, arxiv2019[code](https://github.com/Sunshine352/SF-GAN)<br>
 [Spatial Fusion GAN for Image Synthesis](https://arxiv.org/abs/1812.05840) -Fangneng Zhan, Hongyuan Zhu, Shijian Lu, CVPR2019<br>
 [Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/abs/1807.03021) -Fangneng Zhan, Shijian Lu, Chuhui Xue, ECCV2018<br>
@@ -118,6 +133,8 @@
 [Patch Aggregator for Scene Text Script Identification](https://arxiv.org/abs/1912.03818) --baixiang, arxiv2019<br>
 
 ## Other
+[SwapText: Image Based Texts Transfer in Scenes](https://arxiv.org/abs/2003.08152) -Qiangpeng Yang, CVPR2020<br>
+[UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608) -Cong Yao, CVPR2020<br>
 [TextSR: Content-Aware Text Super-Resolution Guided by Recognition](https://arxiv.org/abs/1909.07113) -forevision, arxiv2019<br>
 [Editing Text in the Wild](https://arxiv.org/abs/1908.03047) -baixiang, ACM MM2019<br>
 [Scene Text Detection and Recognition: The Deep Learning Era](https://arxiv.org/abs/1811.04256) -face++, arxiv2018<br>
