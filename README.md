@@ -70,7 +70,7 @@
 [Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/abs/1908.01957) -baixiang, ICCV2019<br>
 [Adaptive Embedding Gate for Attention-Based Scene Text Recognition](https://arxiv.org/abs/1908.09475) -Linwen Jin, arxiv2019<br>
 [Focus-Enhanced Scene Text Recognition with Deformable Convolutions](https://arxiv.org/abs/1908.10998) -Yanxiang Gong, arxiv2019, [code](https://github.com/Alpaca07/dtr)<br>
-[Alchemy: Techniques for Rectification Based Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834) -ICDAR19 art champion, [code](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy)<br>
+[Rethinking Irregular Scene Text Recognition](https://arxiv.org/abs/1908.11834) -yao cong, ICDAR19 art champion, [code](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy)<br>
 [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/abs/1904.08364) -Zecheng Xie, Yaoxiong Huang, Yuanzhi Zhu, Lianwen Jin, Yuliang Liu, Lele Xie, CVPR2019,[code](https://github.com/summerlvsong/Aggregation-Cross-Entropy)<br>
 [Sequence-to-Sequence Domain Adaptation Networkfor Robust Text Image Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf), CASIA, CVPR2019<br>
 [Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -LiHui, et al, arxiv2019<br>
