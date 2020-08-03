@@ -55,6 +55,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://arxiv.org/abs/2005.10977) -zhi qiao, CVPR2020<br>
 [Text Recognition in the Wild: A Survey](https://arxiv.org/abs/2005.03492) -jinlianwen, arxiv2020<br>
 [Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -Baixiang, ECCV2020<br>
 [GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276) -Wenyang Hu, AAAI2020<br>
