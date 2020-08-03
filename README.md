@@ -104,6 +104,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305) -arxiv2020<br>
 [Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/2002.06820) -Liang Qiao, AAAI2020<br>
 [All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/1911.09550) -baixiang, AAAI2020<br>
 [Convolutional Character Networks](https://arxiv.org/abs/1910.07954) -Linjie Xing, Zhi Tian, Weilin Huang, Matthew R. Scott, ICCV2019<br>
