@@ -55,6 +55,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Text Recognition in the Wild: A Survey](https://arxiv.org/abs/2005.03492) -jinlianwen, arxiv2020<br>
 [Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -Baixiang, ECCV2020<br>
 [GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276) -Wenyang Hu, AAAI2020<br>
 [A New Perspective for Flexible Feature Gathering in Scene Text Recognition Via Character Anchor Pooling](https://arxiv.org/abs/2002.03509) -yao cong, ICASSP2020<br>
