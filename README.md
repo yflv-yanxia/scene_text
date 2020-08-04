@@ -1,6 +1,8 @@
 # scene_text
 
 ## Text Detection
+[All you need is a second look: Towards Tighter Arbitrary shape text detection](https://arxiv.org/abs/2004.12436) -arxiv2020<br>
+[Self-Training for Domain Adaptive Scene Text Detection](https://arxiv.org/abs/2005.11487) -arxiv2020<br>
 [NENET: An Edge Learnable Network for Link Prediction in Scene Text](https://arxiv.org/abs/2005.12147) -arxiv2020<br>
 [Efficient Scene Text Detection with Textual Attention Tower](https://arxiv.org/abs/2002.03741) -Liang Zhang, ICASSP2020<br>
 [Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images](https://arxiv.org/abs/2002.06423) -Kinjal Dasgupta, arxiv2020<br>
