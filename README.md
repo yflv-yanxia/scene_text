@@ -145,6 +145,9 @@
 ### Script identification
 [Patch Aggregator for Scene Text Script Identification](https://arxiv.org/abs/1912.03818) --baixiang, arxiv2019<br>
 
+### Super Resolution
+[Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -baixiang, ECCV2020<br>
+
 ## Other
 [SwapText: Image Based Texts Transfer in Scenes](https://arxiv.org/abs/2003.08152) -Qiangpeng Yang, CVPR2020<br>
 [UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608) -Cong Yao, CVPR2020<br>
