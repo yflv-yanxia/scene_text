@@ -55,6 +55,9 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/abs/2005.03959) -CVPR2020<br>
+[Text Recognition in Real Scenarios with a Few Labeled Samples](https://arxiv.org/abs/2006.12209) -arxiv2020<br> 
+[RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition](https://arxiv.org/abs/2007.07542) -ECCV2020<br>
 [SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://arxiv.org/abs/2005.10977) -zhi qiao, CVPR2020<br>
 [Text Recognition in the Wild: A Survey](https://arxiv.org/abs/2005.03492) -jinlianwen, arxiv2020<br>
 [Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -Baixiang, ECCV2020<br>
@@ -104,6 +107,8 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[Character Region Attention For Text Spotting](https://arxiv.org/abs/2007.09629) -ECCV2020<br>
+[Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting](https://arxiv.org/abs/2007.09482) -baixiang, ECCV2020, [code]()<br>
 [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305) -arxiv2020<br>
 [Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/2002.06820) -Liang Qiao, AAAI2020<br>
 [All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/1911.09550) -baixiang, AAAI2020<br>
