@@ -63,7 +63,6 @@
 [RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition](https://arxiv.org/abs/2007.07542) -ECCV2020<br>
 [SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://arxiv.org/abs/2005.10977) -zhi qiao, CVPR2020<br>
 [Text Recognition in the Wild: A Survey](https://arxiv.org/abs/2005.03492) -jinlianwen, arxiv2020<br>
-[Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -Baixiang, ECCV2020<br>
 [GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276) -Wenyang Hu, AAAI2020<br>
 [A New Perspective for Flexible Feature Gathering in Scene Text Recognition Via Character Anchor Pooling](https://arxiv.org/abs/2002.03509) -yao cong, ICASSP2020<br>
 [ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network](https://arxiv.org/abs/2002.10200) -jin lianwen, CVPR2020<br>
