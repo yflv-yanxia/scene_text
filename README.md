@@ -131,9 +131,14 @@
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
 
 ### Synthesis
+[text_renderer](https://github.com/oh-my-ocr/text_renderer)<br>
+[SynthText](https://github.com/ankush-me/SynthText)<br>
+[SynthText](https://github.com/ankush-me/SynthText)<br>
+[TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)<br>
+[UnrealText](https://github.com/Jyouhou/UnrealText/)<br>
 [ScrabbleGAN: Semi-Supervised Varying Length Handwritten Text Generation](https://arxiv.org/abs/2003.10557) -Sharon Fogel, CVPR2020<br>
-[SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds](https://arxiv.org/abs/1907.06007) -Minghui Liao, Boyu Song, Minghang He, Shangbang Long, Cong Yao, Xiang Bai, arxiv2019[code](https://github.com/Sunshine352/SF-GAN)<br>
-[Spatial Fusion GAN for Image Synthesis](https://arxiv.org/abs/1812.05840) -Fangneng Zhan, Hongyuan Zhu, Shijian Lu, CVPR2019<br>
+[SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds](https://arxiv.org/abs/1907.06007) -Minghui Liao, Boyu Song, Minghang He, Shangbang Long, Cong Yao, Xiang Bai, arxiv2019[code](https://github.com/MhLiao/SynthText3D)<br>
+[Spatial Fusion GAN for Image Synthesis](https://arxiv.org/abs/1812.05840) -Fangneng Zhan, Hongyuan Zhu, Shijian Lu, CVPR2019, [code](https://github.com/Sunshine352/SF-GAN)<br>
 [Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/abs/1807.03021) -Fangneng Zhan, Shijian Lu, Chuhui Xue, ECCV2018<br>
 
 ### Evaluation
