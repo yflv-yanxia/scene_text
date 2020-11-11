@@ -75,6 +75,7 @@
 [Fast Dense Residual Network: Enhancing Global Dense Feature Flow for Text Recognition](https://arxiv.org/abs/2001.09021) -Zhao Zhang, arxiv2020<br>
 [Separating Content from Style Using Adversarial Learning for Recognizing Text in the Wild](https://arxiv.org/abs/2001.04189) -jin lianwen, arxiv2020<br>
 [TextScanner: Reading Characters in Order for Robust Scene Text Recognition](https://arxiv.org/abs/1912.12422) -yao cong, AAAI2020<br>
+[What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis](https://arxiv.org/abs/1904.01906) clova-ICCV2019,[code](https://github.com/clovaai/deep-text-recognition-benchmark)<br>
 [A Feasible Framework for Arbitrary-Shaped Scene Text Recognition](https://arxiv.org/abs/1912.04561) -champion in ICDAR2019, arxiv2019[code](https://github.com/zhang0jhon/AttentionOCR)<br>
 [Deep Neural Network for Semantic-based Text Recognition in Images](https://arxiv.org/abs/1908.01403) -Yi Zheng, arxiv2019<br>
 [Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/abs/1908.01957) -baixiang, ICCV2019<br>
