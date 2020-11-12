@@ -114,7 +114,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
-\[light\][PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/abs/2009.09941) -baidu, arxiv2020<br>
+\[light\][PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/abs/2009.09941) -baidu, arxiv2020, [code](https://github.com/PaddlePaddle/PaddleOCR)<br>
 [Character Region Attention For Text Spotting](https://arxiv.org/abs/2007.09629) -ECCV2020<br>
 [Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting](https://arxiv.org/abs/2007.09482) -baixiang, ECCV2020, [code]()<br>
 [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305) -arxiv2020<br>
