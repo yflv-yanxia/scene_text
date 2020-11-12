@@ -58,6 +58,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874) --pingan, arxiv2020<br>
 [Gaussian Constrained Attention Network for Scene Text Recognition](https://arxiv.org/abs/2010.09169) -qiaozhi, ICPR2020, [code](https://github.com/Pay20Y/GCAN)<br>
 [Adaptive Text Recognition through Visual Matching](https://arxiv.org/abs/2009.06610) -zisserman, ECCV2020<br>
 [On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/abs/2005.03959) -megvii, CVPR2020<br>
