@@ -58,7 +58,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
-[Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874) --pingan, arxiv2020<br>
+\[light\][Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874) --pingan, arxiv2020<br>
 [Gaussian Constrained Attention Network for Scene Text Recognition](https://arxiv.org/abs/2010.09169) -qiaozhi, ICPR2020, [code](https://github.com/Pay20Y/GCAN)<br>
 [Adaptive Text Recognition through Visual Matching](https://arxiv.org/abs/2009.06610) -zisserman, ECCV2020<br>
 [On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/abs/2005.03959) -megvii, CVPR2020<br>
@@ -113,6 +113,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+\[light\][PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/abs/2009.09941) -baidu, arxiv2020<br>
 [Character Region Attention For Text Spotting](https://arxiv.org/abs/2007.09629) -ECCV2020<br>
 [Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting](https://arxiv.org/abs/2007.09482) -baixiang, ECCV2020, [code]()<br>
 [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305) -arxiv2020<br>
