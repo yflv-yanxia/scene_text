@@ -72,6 +72,7 @@
 [SCATTER: Selective Context Attentional Scene Text Recognizer](https://arxiv.org/abs/2003.11288) -Ron Litman, CVPR2020<br>
 [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077) -Xinjie Feng, arxiv2020<br>
 [Efficient Backbone Search for Scene Text Recognition](https://arxiv.org/abs/2003.06567) -baixiang, arxiv2020<br>
+[Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition](https://arxiv.org/abs/2003.06606) -jinlianwen, CVPR2020, [code](https://github.com/Canjie-Luo/Text-Image-Augmentation)<br>
 [Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205) -jianlianwen, AAAI2020<br>
 [Fast Dense Residual Network: Enhancing Global Dense Feature Flow for Text Recognition](https://arxiv.org/abs/2001.09021) -Zhao Zhang, arxiv2020<br>
 [Separating Content from Style Using Adversarial Learning for Recognizing Text in the Wild](https://arxiv.org/abs/2001.04189) -jin lianwen, arxiv2020<br>
