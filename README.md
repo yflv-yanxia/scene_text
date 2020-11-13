@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+\[Real-Time\][Real-Time Scene Text Detection with Differentiable Binarization](https://arxiv.org/abs/1911.08947) -baixiang, AAAI2020, [code](https://github.com/MhLiao/DB)<br>
 [All you need is a second look: Towards Tighter Arbitrary shape text detection](https://arxiv.org/abs/2004.12436) -arxiv2020<br>
 [Self-Training for Domain Adaptive Scene Text Detection](https://arxiv.org/abs/2005.11487) -arxiv2020<br>
 [NENET: An Edge Learnable Network for Link Prediction in Scene Text](https://arxiv.org/abs/2005.12147) -arxiv2020<br>
