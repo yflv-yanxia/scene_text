@@ -138,6 +138,9 @@
 [Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf) -Michal Busta, et al, ICCV2017, [code](https://github.com/MichalBusta/DeepTextSpotter)<br>
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
 
+## Text Retrieval
+[Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552) -baixiang, CVPR2021, [code/CSVTR database](https://github.com/lanfeng4659/STR-TDSL)<br>
+
 ### Synthesis
 [text_renderer](https://github.com/oh-my-ocr/text_renderer)<br>
 [SynthText](https://github.com/ankush-me/SynthText)<br>
