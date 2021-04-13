@@ -139,6 +139,7 @@
 [Reading Text in the Wild with Convolutional Neural Networks](https://link.springer.com/article/10.1007%2Fs11263-015-0823-z) -Max Jaderberg, et al, IJCV2016<br>
 
 ## Text Retrieval
+[Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers](https://arxiv.org/abs/2103.16553) -zisserman, CVPR2021<br>
 [Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552) -baixiang, CVPR2021, [code/CSVTR database](https://github.com/lanfeng4659/STR-TDSL)<br>
 
 ### Synthesis
