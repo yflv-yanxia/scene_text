@@ -59,6 +59,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400) -tokyo, CVPR2021, [code](https://github.com/ku21fan/STR-Fewer-Labels)<br>
 [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495) -ShanchengFang, CVPR2021, [code](https://github.com/FangShancheng/ABINet)<br>
 \[light\][Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874) --pingan, arxiv2020<br>
 [Gaussian Constrained Attention Network for Scene Text Recognition](https://arxiv.org/abs/2010.09169) -qiaozhi, ICPR2020, [code](https://github.com/Pay20Y/GCAN)<br>
