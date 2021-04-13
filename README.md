@@ -59,6 +59,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495) -ShanchengFang, CVPR2021, [code](https://github.com/FangShancheng/ABINet)<br>
 \[light\][Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874) --pingan, arxiv2020<br>
 [Gaussian Constrained Attention Network for Scene Text Recognition](https://arxiv.org/abs/2010.09169) -qiaozhi, ICPR2020, [code](https://github.com/Pay20Y/GCAN)<br>
 [Adaptive Text Recognition through Visual Matching](https://arxiv.org/abs/2009.06610) -zisserman, ECCV2020<br>
@@ -140,6 +141,7 @@
 
 ## Text Retrieval
 [Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers](https://arxiv.org/abs/2103.16553) -zisserman, CVPR2021<br>
+[Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval](https://arxiv.org/abs/2104.00650) -zisserman, arxiv2021<br>
 [Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552) -baixiang, CVPR2021, [code/CSVTR database](https://github.com/lanfeng4659/STR-TDSL)<br>
 
 ### Synthesis
