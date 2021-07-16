@@ -166,6 +166,7 @@
 [Patch Aggregator for Scene Text Script Identification](https://arxiv.org/abs/1912.03818) --baixiang, arxiv2019<br>
 
 ### Super Resolution
+[Text Prior Guided Scene Text Image Super-resolution](https://arxiv.org/abs/2106.15368) -arxiv2021, [code](https://github.com/mjq11302010044/TPGSR)<br>
 [Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -baixiang, ECCV2020<br>
 
 ## Other
