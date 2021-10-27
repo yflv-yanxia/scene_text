@@ -59,7 +59,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
-[TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282) -beihang, arxiv2021<br>
+[TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282) -beihang, arxiv2021, [code](https://aka.ms/TrOCR)<br>
 [Vision Transformer for Fast and Efficient Scene Text Recognition](https://arxiv.org/abs/2105.08582) Rowel-ICDAR2021<br>
 [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400) -tokyo, CVPR2021, [code](https://github.com/ku21fan/STR-Fewer-Labels)<br>
 [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495) -ShanchengFang, CVPR2021, [code](https://github.com/FangShancheng/ABINet)<br>
