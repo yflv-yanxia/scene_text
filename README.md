@@ -102,6 +102,7 @@
 [Recurrent Calibration Network for Irregular Text Recognition](https://arxiv.org/abs/1812.07145) -Hanqing Lu, arxiv2018<br>
 [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/abs/1812.05824) -Fangneng Zhan, Shijian Lu, arxiv2018<br>
 [Synthetically Supervised Feature Learning for Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf) -Adobe, ECCV2018<br>
+[Connectionist Temporal Classification with Maximum Entropy Regularization](https://proceedings.neurips.cc/paper/2018/hash/e44fea3bec53bcea3b7513ccef5857ac-Abstract.html) -Tsinghua, NeurIPS2018,[code](https://github.com/liuhu-bigeye/enctc.crnn)<br>
 [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](https://ieeexplore.ieee.org/document/8395027) -Baixiang, PAMI2018, [code](https://github.com/ayumiymk/aster.pytorch)<br>
 [Edit Probability for Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) -Fudan, Hikvision, cvpr2018<br>
 [SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network](https://pdfs.semanticscholar.org/0e59/f7d7e9c9380b425a94038c7a2500b2f6063a.pdf) -Zichuan Liu, et al, AAAI2018<br>
