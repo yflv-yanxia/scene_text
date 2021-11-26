@@ -151,6 +151,7 @@
 [Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552) -baixiang, CVPR2021, [code/CSVTR database](https://github.com/lanfeng4659/STR-TDSL)<br>
 
 ### Synthesis
+[Data Augmentation for Scene Text Recognition](https://arxiv.org/abs/2108.06949) -ICCV2021 workshop, [code](https://github.com/roatienza/straug)<br>
 [text_renderer](https://github.com/oh-my-ocr/text_renderer)<br>
 [SynthText](https://github.com/ankush-me/SynthText)<br>
 [SynthText](https://github.com/ankush-me/SynthText)<br>
