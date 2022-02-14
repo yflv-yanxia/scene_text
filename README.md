@@ -175,6 +175,7 @@
 [Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -baixiang, ECCV2020<br>
 
 ## Other
+[EraseNet: End-to-End Text Removal in the Wild](https://ieeexplore.ieee.org/document/9180003) -Jinlianwen, TIP2020<br>
 [SwapText: Image Based Texts Transfer in Scenes](https://arxiv.org/abs/2003.08152) -Qiangpeng Yang, CVPR2020<br>
 [UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608) -Cong Yao, CVPR2020<br>
 [TextSR: Content-Aware Text Super-Resolution Guided by Recognition](https://arxiv.org/abs/1909.07113) -forevision, arxiv2019<br>
