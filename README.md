@@ -68,6 +68,7 @@
 [Gaussian Constrained Attention Network for Scene Text Recognition](https://arxiv.org/abs/2010.09169) -qiaozhi, ICPR2020, [code](https://github.com/Pay20Y/GCAN)<br>
 [Adaptive Text Recognition through Visual Matching](https://arxiv.org/abs/2009.06610) -zisserman, ECCV2020<br>
 [On Vocabulary Reliance in Scene Text Recognition](https://arxiv.org/abs/2005.03959) -megvii, CVPR2020<br>
+[Joint Layout Analysis, Character Detection and Recognition for Historical Document Digitization](https://arxiv.org/abs/2007.06890) -JinLianwen, ICFHR2020<br>
 [Text Recognition in Real Scenarios with a Few Labeled Samples](https://arxiv.org/abs/2006.12209) -arxiv2020<br> 
 [RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition](https://arxiv.org/abs/2007.07542) -ECCV2020<br>
 [SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://arxiv.org/abs/2005.10977) -zhi qiao, CVPR2020<br>
