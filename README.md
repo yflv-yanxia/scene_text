@@ -179,6 +179,7 @@
 [Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -baixiang, ECCV2020<br>
 
 ## Other
+[Page Layout Analysis System for Unconstrained Historic Documents](https://arxiv.org/abs/2102.11838) -ICDAR2021<br>
 [EraseNet: End-to-End Text Removal in the Wild](https://ieeexplore.ieee.org/document/9180003) -Jinlianwen, TIP2020<br>
 [SwapText: Image Based Texts Transfer in Scenes](https://arxiv.org/abs/2003.08152) -Qiangpeng Yang, CVPR2020<br>
 [UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608) -Cong Yao, CVPR2020<br>
