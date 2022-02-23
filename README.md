@@ -9,6 +9,7 @@
 [Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images](https://arxiv.org/abs/2002.06423) -Kinjal Dasgupta, arxiv2020<br>
 [PuzzleNet: Scene Text Detection by Segment Context Graph Learning](https://arxiv.org/abs/2002.11371) -Hao Liu, arxiv2020<br>
 [Refined Gate: A Simple and Effective Gating Mechanism for Recurrent Units](https://arxiv.org/abs/2002.11338) -Yu Qiao, arxiv2020<br>
+[HRCenterNet: An Anchorless Approach to Chinese Character Segmentation in Historical Documents](https://arxiv.org/abs/2012.05739) -BigData2020, [code](https://github.com/Tverous/HRCenterNet)<br>
 [Gliding vertex on the horizontal bounding box for multi-oriented object detection](https://arxiv.org/abs/1911.09358) -Xiang Bai, arxiv2019[code](https://github.com/MingtaoFu/gliding_vertex)<br>
 [Exploring the Capacity of Sequential-free Box Discretization Network for Omnidirectional Scene Text Detection](https://arxiv.org/abs/1912.09629) -jinlianwen, arxiv2019<br>
 [Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) -face++,  ICCV 2019, <br>
