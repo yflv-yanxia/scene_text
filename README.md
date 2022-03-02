@@ -139,6 +139,7 @@
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1908.08207) -baixiang, TPAMI2019<br>
 [Towards Unconstrained End-to-End Text Spotting](https://arxiv.org/abs/1908.09231) -google ai, arxiv2019<br>
 [Towards End-to-End Text Spotting in Natural Scenes](https://arxiv.org/abs/1906.06013) -Hui Li, Peng Wang, Chunhua Shen, arxiv2019<br>
+[Weakly supervised precise segmentation for historical document images](https://www.sciencedirect.com/science/article/pii/S0925231219304989) -JIn Lianwen, Neurocomputing2019<br>
 [A Novel Integrated Framework for Learning both Text Detection and Recognition](https://arxiv.org/abs/1811.08611) -alibaba, arxiv2018<br>
 [TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network](https://arxiv.org/abs/1812.09900) -baidu, arxiv2018<br>
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1807.02242) -Pengyuan Lyu, Minghui Liao, Cong Yao, Wenhao Wu, Xiang Bai, arxiv2018<br>
