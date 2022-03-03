@@ -111,6 +111,7 @@
 [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](https://ieeexplore.ieee.org/document/8395027) -Baixiang, PAMI2018, [code](https://github.com/ayumiymk/aster.pytorch)<br>
 [Edit Probability for Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) -Fudan, Hikvision, cvpr2018<br>
 [SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network](https://pdfs.semanticscholar.org/0e59/f7d7e9c9380b425a94038c7a2500b2f6063a.pdf) -Zichuan Liu, et al, AAAI2018<br>
+[State of the Art Optical Character Recognition of 19th Century Fraktur Scripts using Open Source Engines](https://arxiv.org/abs/1810.03436) -arxiv2018<br>
 [SCAN: Sliding Convolutional Attention Network for Scene Text Recognition](https://arxiv.org/abs/1806.00578) -Yichao Wu, et al, arxiv2018<br>
 [NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/abs/1806.00926) -Fenfen Sheng, et al, arxiv2018<br>
 [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/abs/1711.04226) -Hikvision, et al, CVPR2018<br>
