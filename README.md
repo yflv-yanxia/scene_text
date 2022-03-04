@@ -62,6 +62,7 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition](https://arxiv.org/abs/2105.06229v2) -hikvision, ICDAR2021, [code](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/text_recognition/rflearning)<br>
 [Dictionary-Guided Scene Text Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Dictionary-Guided_Scene_Text_Recognition_CVPR_2021_paper.html) -CVPR2021,[code](https://github.com/VinAIResearch/dict-guided)<br>
 [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282) -beihang, arxiv2021, [code](https://aka.ms/TrOCR)<br>
 [Vision Transformer for Fast and Efficient Scene Text Recognition](https://arxiv.org/abs/2105.08582) Rowel-ICDAR2021<br>
