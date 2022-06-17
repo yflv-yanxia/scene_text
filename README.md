@@ -14,7 +14,7 @@
 [HRCenterNet: An Anchorless Approach to Chinese Character Segmentation in Historical Documents](https://arxiv.org/abs/2012.05739) -BigData2020, [code](https://github.com/Tverous/HRCenterNet)<br>
 [Gliding vertex on the horizontal bounding box for multi-oriented object detection](https://arxiv.org/abs/1911.09358) -Xiang Bai, arxiv2019[code](https://github.com/MingtaoFu/gliding_vertex)<br>
 [Exploring the Capacity of Sequential-free Box Discretization Network for Omnidirectional Scene Text Detection](https://arxiv.org/abs/1912.09629) -jinlianwen, arxiv2019<br>
-[Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) -face++,  ICCV 2019, <br>
+[Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) -face++,  ICCV 2019, [code](https://github.com/whai362/pan_pp.pytorch)<br>
 [A Single-Shot Arbitrarily-Shaped Text Detector based on Context Attended Multi-Task Learning](https://arxiv.org/abs/1908.05498) -Pengfei Wang, arxiv2019<br>
 [It's All About The Scale -- Efficient Text Detection Using Adaptive Scaling](https://arxiv.org/abs/1907.12122) -Elad Richardson, arxiv2019<br>
 [FaSTExt: Fast and Small Text Extractor](https://arxiv.org/abs/1908.09231) -Alexander Filonenko, arxiv2019<br>
