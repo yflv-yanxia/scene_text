@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Arbitrary Shape Text Detection via Segmentation with Probability Maps](https://ieeexplore.ieee.org/abstract/document/9779460) -yinxucheng, PAMI2022, [code](https://github.com/GXYM/TextPMs)<br>
 [HRRegionNet: Chinese Character Segmentation in Historical Documents with Regional Awareness](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_1) -ICDAR2021<br>
 \[Real-Time\][Real-Time Scene Text Detection with Differentiable Binarization](https://arxiv.org/abs/1911.08947) -baixiang, AAAI2020, [code](https://github.com/MhLiao/DB)<br>
 [All you need is a second look: Towards Tighter Arbitrary shape text detection](https://arxiv.org/abs/2004.12436) -arxiv2020<br>
