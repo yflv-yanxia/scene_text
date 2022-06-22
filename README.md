@@ -1,7 +1,7 @@
 # scene_text
 
 ## Text Detection
-[Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2203.15143) -CVPR2022<br>
+[Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2203.15143) -CVPR2022, google, [code](https://github.com/google-research-datasets/hiertext)<br>
 [Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/abs/2203.15221) -baixiang, CVPR2022<br>
 [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/abs/2204.13867) -baixiang, CVPR2022<br>
 [UNITS: Unsupervised Intermediate Training Stage for Scene Text Detection](https://arxiv.org/abs/2205.04683) -guoyouhui, ICME2022<br>
