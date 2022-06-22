@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2203.15143) -CVPR2022<br>
 [Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/abs/2203.15221) -baixiang, CVPR2022<br>
 [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/abs/2204.13867) -baixiang, CVPR2022<br>
 [UNITS: Unsupervised Intermediate Training Stage for Scene Text Detection](https://arxiv.org/abs/2205.04683) -guoyouhui, ICME2022<br>
@@ -219,6 +220,7 @@ PAL10K<br>
 [COCO TS Dataset](https://arxiv.org/abs/1904.00818)<br>
 [ICPR MTWI 2018 挑战赛一：网络图像的文本识别](https://tianchi.aliyun.com/competition/information.htm?raceId=231650)<br>
 ### other
+[Comprehensive Benchmark Datasets for Amharic Scene Text Detection and Recognition](https://arxiv.org/abs/2203.12165)<br>
 [Textual Visual Semantic Dataset for Text Spotting](https://github.com/HCIILAB/dataset)<br>
 [RoadText-1K: Text Detection & Recognition Dataset for Driving Videos](https://arxiv.org/abs/2005.09496)
 [DDI-100: Dataset for Text Detection and Recognition](https://arxiv.org/abs/1912.11658)
