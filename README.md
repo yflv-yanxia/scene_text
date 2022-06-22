@@ -2,7 +2,7 @@
 
 ## Text Detection
 [Real-time Scene Text Detection Based on Global Level and Word Level Features](https://arxiv.org/abs/2203.05251) -arxiv2022<br>
-[Kernel Proposal Network for Arbitrary Shape Text Detection](https://arxiv.org/abs/2203.06410) -yinxucheng, TNNLS2022,[code](https://github.com/GXYM/KPN)<>
+[Kernel Proposal Network for Arbitrary Shape Text Detection](https://arxiv.org/abs/2203.06410) -yinxucheng, TNNLS2022,[code](https://github.com/GXYM/KPN)<br>
 [Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion](https://arxiv.org/abs/2202.10304) -baixiang, PAMI2022, [code](https://github.com/MhLiao/DB)<br>
 [Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2203.15143) -CVPR2022, google, [code](https://github.com/google-research-datasets/hiertext)<br>
 [Arbitrary Shape Text Detection using Transformers](https://arxiv.org/abs/2202.11221) -arxiv2022<br>
