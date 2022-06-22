@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/abs/2203.15221) -baixiang, CVPR2022<br>
 [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/abs/2204.13867) -baixiang, CVPR2022<br>
 [UNITS: Unsupervised Intermediate Training Stage for Scene Text Detection](https://arxiv.org/abs/2205.04683) -guoyouhui, ICME2022<br>
 [Arbitrary Shape Text Detection via Boundary Transformer](https://arxiv.org/abs/2205.05320) -yinxucheng, arxiv2022<br>
@@ -135,6 +136,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[Text Spotting Transformers](https://arxiv.org/abs/2204.01918) -CVPR2022, intel<br>
 [PP-OCRv3: More Attempts for the Improvement of Ultra Lightweight OCR System](https://arxiv.org/abs/2206.03001) -baidu, arxiv2022<br>
 \[light\][PP-OCRv2: Bag of Tricks for Ultra Lightweight OCR System](https://arxiv.org/abs/2109.03144) -baidu, arxiv2021, [code](https://github.com/PaddlePaddle/PaddleOCR)<br>
 [icdar competition][1st Place Solution to ICDAR 2021 RRC-ICTEXT End-to-end Text Spotting and Aesthetic Assessment on Integrated Circuit](https://arxiv.org/abs/2104.03544) -hikvision, arxiv2021<br>
