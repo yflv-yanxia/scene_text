@@ -137,7 +137,8 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
-[Text Spotting Transformers](https://arxiv.org/abs/2204.01918) -CVPR2022, intel<br>
+[End-to-End Video Text Spotting with Transformer](https://arxiv.org/abs/2203.10539) -shenchunhua, arxiv2022<br>
+[Text Spotting Transformers](https://arxiv.org/abs/2204.01918) -intel, CVPR2022<br>
 [PP-OCRv3: More Attempts for the Improvement of Ultra Lightweight OCR System](https://arxiv.org/abs/2206.03001) -baidu, arxiv2022<br>
 \[light\][PP-OCRv2: Bag of Tricks for Ultra Lightweight OCR System](https://arxiv.org/abs/2109.03144) -baidu, arxiv2021, [code](https://github.com/PaddlePaddle/PaddleOCR)<br>
 [icdar competition][1st Place Solution to ICDAR 2021 RRC-ICTEXT End-to-end Text Spotting and Aesthetic Assessment on Integrated Circuit](https://arxiv.org/abs/2104.03544) -hikvision, arxiv2021<br>
