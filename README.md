@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion](https://arxiv.org/abs/2202.10304) -baixiang, PAMI2022<br>
 [Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2203.15143) -CVPR2022, google, [code](https://github.com/google-research-datasets/hiertext)<br>
 [Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/abs/2203.15221) -baixiang, CVPR2022<br>
 [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/abs/2204.13867) -baixiang, CVPR2022<br>
@@ -137,6 +138,7 @@
 [Recursive Recurrent Nets with Attention Modeling for OCR in the Wild](https://arxiv.org/pdf/1603.03101v1.pdf) -Yahoo, CVPR2016<br>
 
 ## End-to-End & Text Spotting
+[SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition](https://arxiv.org/abs/2203.10209) -jinlianwen, CVPR2022, [code](https://github.com/mxin262/SwinTextSpotter)<br>
 [End-to-End Video Text Spotting with Transformer](https://arxiv.org/abs/2203.10539) -shenchunhua, arxiv2022<br>
 [Text Spotting Transformers](https://arxiv.org/abs/2204.01918) -intel, CVPR2022<br>
 [PP-OCRv3: More Attempts for the Improvement of Ultra Lightweight OCR System](https://arxiv.org/abs/2206.03001) -baidu, arxiv2022<br>
