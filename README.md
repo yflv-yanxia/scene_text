@@ -1,6 +1,8 @@
 # scene_text
 
 ## Text Detection
+[Vision-Language Pre-Training for Boosting Scene Text Detectors](https://arxiv.org/abs/2204.13867) -baixiang, CVPR2022<br>
+[UNITS: Unsupervised Intermediate Training Stage for Scene Text Detection](https://arxiv.org/abs/2205.04683) -guoyouhui, ICME2022<br>
 [Arbitrary Shape Text Detection via Boundary Transformer](https://arxiv.org/abs/2205.05320) -yinxucheng, arxiv2022<br>
 [Arbitrary Shape Text Detection via Segmentation with Probability Maps](https://ieeexplore.ieee.org/abstract/document/9779460) -yinxucheng, PAMI2022, [code](https://github.com/GXYM/TextPMs)<br>
 [HRRegionNet: Chinese Character Segmentation in Historical Documents with Regional Awareness](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_1) -ICDAR2021<br>
