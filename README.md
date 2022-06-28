@@ -142,7 +142,7 @@
 
 ## End-to-End & Text Spotting
 [Language Matters: A Weakly Supervised Pre-training Approach for Scene Text Detection and Spotting](https://arxiv.org/abs/2203.03911) -bytedance, arxiv2022<br>
-[DEER: Detection-agnostic End-to-End Recognizer for Scene Text Spotting](https://arxiv.org/abs/2203.05122) -arxiv2022, [code]()<br>
+[DEER: Detection-agnostic End-to-End Recognizer for Scene Text Spotting](https://arxiv.org/abs/2203.05122) -naver, arxiv2022, [code]()<br>
 [SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition](https://arxiv.org/abs/2203.10209) -jinlianwen, CVPR2022, [code](https://github.com/mxin262/SwinTextSpotter)<br>
 [End-to-End Video Text Spotting with Transformer](https://arxiv.org/abs/2203.10539) -shenchunhua, arxiv2022<br>
 [Text Spotting Transformers](https://arxiv.org/abs/2204.01918) -intel, CVPR2022<br>
