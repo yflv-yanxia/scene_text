@@ -93,7 +93,6 @@
 [Text Recognition in the Wild: A Survey](https://arxiv.org/abs/2005.03492) -jinlianwen, arxiv2020<br>
 [GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276) -Wenyang Hu, AAAI2020<br>
 [A New Perspective for Flexible Feature Gathering in Scene Text Recognition Via Character Anchor Pooling](https://arxiv.org/abs/2002.03509) -yao cong, ICASSP2020<br>
-[ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network](https://arxiv.org/abs/2002.10200) -jin lianwen, CVPR2020<br>
 [SCATTER: Selective Context Attentional Scene Text Recognizer](https://arxiv.org/abs/2003.11288) -Ron Litman, CVPR2020<br>
 [Scene Text Recognition via Transformer](https://arxiv.org/abs/2003.08077) -Xinjie Feng, arxiv2020<br>
 [Efficient Backbone Search for Scene Text Recognition](https://arxiv.org/abs/2003.06567) -baixiang, arxiv2020<br>
@@ -150,12 +149,14 @@
 [PP-OCRv3: More Attempts for the Improvement of Ultra Lightweight OCR System](https://arxiv.org/abs/2206.03001) -baidu, arxiv2022<br>
 \[light\][PP-OCRv2: Bag of Tricks for Ultra Lightweight OCR System](https://arxiv.org/abs/2109.03144) -baidu, arxiv2021, [code](https://github.com/PaddlePaddle/PaddleOCR)<br>
 [icdar competition][1st Place Solution to ICDAR 2021 RRC-ICTEXT End-to-end Text Spotting and Aesthetic Assessment on Integrated Circuit](https://arxiv.org/abs/2104.03544) -hikvision, arxiv2021<br>
+[ABCNet v2: Adaptive Bezier-Curve Network for Real-time End-to-end Text Spotting](https://arxiv.org/abs/2105.03620) -jinlianwen, arxiv2021, [code](https://github.com/aim-uofa/AdelaiDet/)<br>
 \[light\][PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/abs/2009.09941) -baidu, arxiv2020, [code](https://github.com/PaddlePaddle/PaddleOCR)<br>
 [Character Region Attention For Text Spotting](https://arxiv.org/abs/2007.09629) -ECCV2020<br>
 [Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting](https://arxiv.org/abs/2007.09482) -baixiang, ECCV2020, [code]()<br>
 [Text Detection and Recognition in the Wild: A Review](https://arxiv.org/abs/2006.04305) -arxiv2020<br>
 [Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/2002.06820) -Liang Qiao, AAAI2020<br>
 [All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting](https://arxiv.org/abs/1911.09550) -baixiang, AAAI2020<br>
+[ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network](https://arxiv.org/abs/2002.10200) -jin lianwen, CVPR2020<br>
 [Convolutional Character Networks](https://arxiv.org/abs/1910.07954) -Linjie Xing, Zhi Tian, Weilin Huang, Matthew R. Scott, ICCV2019<br>
 [TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.pdf) -Chenglin Liu, CVPR2019<br>
 [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/abs/1908.08207) -baixiang, TPAMI2019<br>
