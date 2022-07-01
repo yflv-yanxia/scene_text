@@ -76,6 +76,7 @@
 
 ## Text Recognition
 [Context-Based Contrastive Learning for Scene Text Recognition](https://aaai-2022.virtualchair.net/poster_aaai10147) -AAAI2022<br>
+[SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2205.00159) -baidu, IJCAI2022, [code]()<br>
 [Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition](https://arxiv.org/abs/2105.06229v2) -hikvision, ICDAR2021, [code](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/text_recognition/rflearning)<br>
 [Dictionary-Guided Scene Text Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Dictionary-Guided_Scene_Text_Recognition_CVPR_2021_paper.html) -CVPR2021,[code](https://github.com/VinAIResearch/dict-guided)<br>
 [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282) -beihang, arxiv2021, [code](https://aka.ms/TrOCR)<br>
