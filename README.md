@@ -221,6 +221,9 @@
 [Sequence Level Training with Recurrent Neural Networks](https://arxiv.org/abs/1511.06732) -FAIR, ICLR2016<br>
 [A Convolutional Encoder Model for Neural Machine Translation](https://arxiv.org/abs/1611.02344) -FAIR, arxiv2016<br>
 
+#Reading Order
+[LayoutReader: Pre-training of Text and Layout for Reading Order Detection](https://arxiv.org/abs/2108.11591) -MSRA, EMNLP2021, [code/database](https://github.com/microsoft/unilm/tree/master/layoutreader)<br>
+
 ## Database & Generation
 ### chinese
 [TRW15: ICDAR 2015 Text Reading in the Wild Competition](https://arxiv.org/abs/1506.03184)<br>
