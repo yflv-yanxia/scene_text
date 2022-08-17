@@ -208,10 +208,10 @@
 ## Other
 [Stroke-Based Scene Text Erasing Using Synthetic Data for Training](https://ieeexplore.ieee.org/abstract/document/9609970) -TIP2021<br>
 [Page Layout Analysis System for Unconstrained Historic Documents](https://arxiv.org/abs/2102.11838) -ICDAR2021<br>
-[EraseNet: End-to-End Text Removal in the Wild](https://ieeexplore.ieee.org/document/9180003) -Jinlianwen, TIP2020<br>
+[EraseNet: End-to-End Text Removal in the Wild](https://ieeexplore.ieee.org/document/9180003) -Jinlianwen, TIP2020, [code](https://github.com/HCIILAB/SCUT-EnsText)<br>
 [SwapText: Image Based Texts Transfer in Scenes](https://arxiv.org/abs/2003.08152) -Qiangpeng Yang, CVPR2020<br>
 [UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World](https://arxiv.org/abs/2003.10608) -Cong Yao, CVPR2020<br>
-[EnsNet: Ensconce Text in the Wild](https://ojs.aaai.org/index.php/AAAI/article/view/3859) -JinLianwen, AAAI2019<br>
+[EnsNet: Ensconce Text in the Wild](https://ojs.aaai.org/index.php/AAAI/article/view/3859) -JinLianwen, AAAI2019, [code](https://github.com/HCIILAB/SCUT-EnsText)<br>
 [TextSR: Content-Aware Text Super-Resolution Guided by Recognition](https://arxiv.org/abs/1909.07113) -forevision, arxiv2019<br>
 [Editing Text in the Wild](https://arxiv.org/abs/1908.03047) -baixiang, ACM MM2019<br>
 [MTRNet: A Generic Scene Text Eraser](https://ieeexplore.ieee.org/abstract/document/8978083) -ICDAR2019<br>
