@@ -80,6 +80,7 @@
 [Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition](https://arxiv.org/abs/2105.06229v2) -hikvision, ICDAR2021, [code](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/text_recognition/rflearning)<br>
 [Dictionary-Guided Scene Text Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Dictionary-Guided_Scene_Text_Recognition_CVPR_2021_paper.html) -CVPR2021,[code](https://github.com/VinAIResearch/dict-guided)<br>
 [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282) -beihang, arxiv2021, [code](https://aka.ms/TrOCR)<br>
+[RecycleNet: An Overlapped Text Instance Recovery Approach](https://dl.acm.org/doi/abs/10.1145/3474085.3481536) -MMM21<br>
 [Vision Transformer for Fast and Efficient Scene Text Recognition](https://arxiv.org/abs/2105.08582) Rowel-ICDAR2021<br>
 [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400) -tokyo, CVPR2021, [code](https://github.com/ku21fan/STR-Fewer-Labels)<br>
 [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495) -ShanchengFang, CVPR2021, [code](https://github.com/FangShancheng/ABINet)<br>
