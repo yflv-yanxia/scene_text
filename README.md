@@ -82,6 +82,7 @@
 [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282) -beihang, arxiv2021, [code](https://aka.ms/TrOCR)<br>
 [RecycleNet: An Overlapped Text Instance Recovery Approach](https://dl.acm.org/doi/abs/10.1145/3474085.3481536) -tencent, MMM21<br>
 [Vision Transformer for Fast and Efficient Scene Text Recognition](https://arxiv.org/abs/2105.08582) Rowel-ICDAR2021<br>
+[PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network](https://arxiv.org/abs/2104.05458) -baidu, AAAI2021, [code](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_ch/algorithm_e2e_pgnet.md)<br>
 [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400) -tokyo, CVPR2021, [code](https://github.com/ku21fan/STR-Fewer-Labels)<br>
 [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495) -ShanchengFang, CVPR2021, [code](https://github.com/FangShancheng/ABINet)<br>
 \[light\][Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874) --pingan, arxiv2020<br>
