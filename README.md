@@ -75,6 +75,8 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Cdistnet: Perceiving multi-domain character distance for robust text recognition](https://arxiv.org/pdf/2111.11011) -fudan, IJCV2023, [code](https://github.com/simplify23/CDistNet)<br>
+[Trocr: Transformer-based optical character recognition with pre-trained models](https://ojs.aaai.org/index.php/AAAI/article/view/26538) -Microsoft, AAAI2023, [code](https://aka.ms/trocr)<br>
 [Context-Based Contrastive Learning for Scene Text Recognition](https://aaai-2022.virtualchair.net/poster_aaai10147) -AAAI2022<br>
 [SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2205.00159) -baidu, IJCAI2022, [code]()<br>
 [Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition](https://arxiv.org/abs/2105.06229v2) -hikvision, ICDAR2021, [code](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/text_recognition/rflearning)<br>
