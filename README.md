@@ -209,6 +209,8 @@
 [Patch Aggregator for Scene Text Script Identification](https://arxiv.org/abs/1912.03818) --baixiang, arxiv2019<br>
 
 ### Super Resolution
+[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://ojs.aaai.org/index.php/AAAI/article/view/19904) -fudan, AAAI2022, [code](https://github.com/FudanVI/FudanOCR/tree/main/text-gestalt)<br>
+[Scene Text Telescope: Text-Focused Scene Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.html?ref=https://githubhelp.com) -fudan, CVPR2021<br>
 [Text Prior Guided Scene Text Image Super-resolution](https://arxiv.org/abs/2106.15368) -arxiv2021, [code](https://github.com/mjq11302010044/TPGSR)<br>
 [Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -baixiang, ECCV2020<br>
 
