@@ -1,6 +1,7 @@
 # scene_text
 
 ## Text Detection
+[DETRs Beat YOLOs on Real-time Object Detection](https://arxiv.org/abs/2304.08069) -baidu, arxiv2023, [code](https://github.com/lyuwenyu/RT-DETR)<br>
 [Real-time Scene Text Detection Based on Global Level and Word Level Features](https://arxiv.org/abs/2203.05251) -arxiv2022<br>
 [Kernel Proposal Network for Arbitrary Shape Text Detection](https://arxiv.org/abs/2203.06410) -yinxucheng, TNNLS2022,[code](https://github.com/GXYM/KPN)<br>
 [Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion](https://arxiv.org/abs/2202.10304) -baixiang, PAMI2022, [code](https://github.com/MhLiao/DB)<br>
