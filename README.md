@@ -217,6 +217,7 @@
 [Scene Text Image Super-Resolution in the Wild](https://arxiv.org/abs/2005.03341) -baixiang, ECCV2020<br>
 
 ## Other
+[AnyText: Multilingual Visual Text Generation And Editing](https://arxiv.org/abs/2311.03054) -alibaba, arxiv2023, [code](https://github.com/tyxsspa/AnyText)<br> 
 [Stroke-Based Scene Text Erasing Using Synthetic Data for Training](https://ieeexplore.ieee.org/abstract/document/9609970) -TIP2021<br>
 [Page Layout Analysis System for Unconstrained Historic Documents](https://arxiv.org/abs/2102.11838) -ICDAR2021<br>
 [EraseNet: End-to-End Text Removal in the Wild](https://ieeexplore.ieee.org/document/9180003) -Jinlianwen, TIP2020, [code](https://github.com/HCIILAB/SCUT-EnsText)<br>
