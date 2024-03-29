@@ -76,6 +76,8 @@
 [Scene text detection via holistic, multi-channel prediction](https://arxiv.org/abs/1606.09002) -C Yao, X Bai, N Sang, X Zhou, S Zhou, arxiv2016<br>
 
 ## Text Recognition
+[Multi-modal In-Context Learning Makes an Ego-evolving Scene Text Recognizer](https://arxiv.org/abs/2311.13120) -bytedance, CVPR2024, [code](https://github.com/bytedance/E2STR)<br>
+[Revisiting Scene Text Recognition: A Data Perspective](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Revisiting_Scene_Text_Recognition_A_Data_Perspective_ICCV_2023_paper.html) -jinlianwen, ICCV2023, [code](https://github.com/Mountchicken/Union14M)<br>
 [Context Perception Parallel Decoder for Scene Text Recognition](https://arxiv.org/abs/2307.12270) -baidu,arxiv2023<br>
 [Cdistnet: Perceiving multi-domain character distance for robust text recognition](https://arxiv.org/pdf/2111.11011) -fudan, IJCV2023, [code](https://github.com/simplify23/CDistNet)<br>
 [Trocr: Transformer-based optical character recognition with pre-trained models](https://ojs.aaai.org/index.php/AAAI/article/view/26538) -Microsoft, AAAI2023, [code](https://aka.ms/trocr)<br>
