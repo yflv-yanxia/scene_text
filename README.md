@@ -99,6 +99,7 @@
 [Joint Layout Analysis, Character Detection and Recognition for Historical Document Digitization](https://arxiv.org/abs/2007.06890) -JinLianwen, ICFHR2020<br>
 [Text Recognition in Real Scenarios with a Few Labeled Samples](https://arxiv.org/abs/2006.12209) -arxiv2020<br> 
 [RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition](https://arxiv.org/abs/2007.07542) -ECCV2020<br>
+[On Recognizing Texts of Arbitrary Shapes With 2D Self-Attention](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Lee_On_Recognizing_Texts_of_Arbitrary_Shapes_With_2D_Self-Attention_CVPRW_2020_paper.html) -CVPRW2020<br>
 [SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://arxiv.org/abs/2005.10977) -zhi qiao, CVPR2020<br>
 [Text Recognition in the Wild: A Survey](https://arxiv.org/abs/2005.03492) -jinlianwen, arxiv2020<br>
 [GTC: Guided Training of CTC Towards Efficient and Accurate Scene Text Recognition](https://arxiv.org/abs/2002.01276) -Wenyang Hu, AAAI2020<br>
